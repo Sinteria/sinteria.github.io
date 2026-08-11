@@ -1,0 +1,610 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Sinteria | Sistemas y Automatización para Negocios</title>
+
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      background: #08111f;
+      color: white;
+      line-height: 1.6;
+    }
+
+    /* =========================
+       MENÚ
+    ========================== */
+
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+      background: rgba(8, 17, 31, 0.95);
+      border-bottom: 1px solid rgba(255,255,255,0.08);
+    }
+
+    nav {
+      max-width: 1200px;
+      margin: auto;
+      padding: 18px 25px;
+
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .logo {
+      font-size: 28px;
+      font-weight: bold;
+      color: #39c6ff;
+      letter-spacing: 1px;
+    }
+
+    .menu {
+      display: flex;
+      gap: 25px;
+      list-style: none;
+    }
+
+    .menu a {
+      color: white;
+      text-decoration: none;
+      transition: 0.3s;
+    }
+
+    .menu a:hover {
+      color: #39c6ff;
+    }
+
+    /* =========================
+       PORTADA
+    ========================== */
+
+    .hero {
+      min-height: 88vh;
+
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+
+      padding: 80px 25px;
+
+      background:
+        radial-gradient(circle at top, #12345a, #08111f 60%);
+    }
+
+    .hero-content {
+      max-width: 850px;
+    }
+
+    .etiqueta {
+      display: inline-block;
+
+      background: rgba(57, 198, 255, 0.12);
+      color: #39c6ff;
+
+      padding: 8px 18px;
+      border-radius: 30px;
+
+      margin-bottom: 20px;
+      font-size: 14px;
+    }
+
+    .hero h1 {
+      font-size: clamp(42px, 7vw, 78px);
+      margin-bottom: 20px;
+      line-height: 1.05;
+    }
+
+    .hero h1 span {
+      color: #39c6ff;
+    }
+
+    .hero p {
+      color: #b8c5d8;
+      font-size: 20px;
+      max-width: 720px;
+      margin: auto;
+      margin-bottom: 35px;
+    }
+
+    .botones {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 15px;
+    }
+
+    .btn {
+      display: inline-block;
+
+      padding: 15px 26px;
+
+      border-radius: 10px;
+
+      text-decoration: none;
+      font-weight: bold;
+
+      transition: 0.3s;
+    }
+
+    .btn-principal {
+      background: #39c6ff;
+      color: #05101d;
+    }
+
+    .btn-principal:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 10px 30px rgba(57,198,255,0.25);
+    }
+
+    .btn-secundario {
+      border: 1px solid #39c6ff;
+      color: #39c6ff;
+    }
+
+    .btn-secundario:hover {
+      background: rgba(57,198,255,0.1);
+    }
+
+    /* =========================
+       SECCIONES
+    ========================== */
+
+    section {
+      padding: 90px 25px;
+    }
+
+    .contenedor {
+      max-width: 1200px;
+      margin: auto;
+    }
+
+    .titulo-seccion {
+      text-align: center;
+      margin-bottom: 50px;
+    }
+
+    .titulo-seccion h2 {
+      font-size: 40px;
+      margin-bottom: 10px;
+    }
+
+    .titulo-seccion p {
+      color: #9eacc0;
+    }
+
+    /* =========================
+       SERVICIOS
+    ========================== */
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 25px;
+    }
+
+    .card {
+      background: #0d1929;
+      border: 1px solid rgba(255,255,255,0.08);
+      border-radius: 18px;
+
+      padding: 30px;
+
+      transition: 0.3s;
+    }
+
+    .card:hover {
+      transform: translateY(-6px);
+      border-color: #39c6ff;
+    }
+
+    .icono {
+      font-size: 42px;
+      margin-bottom: 18px;
+    }
+
+    .card h3 {
+      font-size: 22px;
+      margin-bottom: 12px;
+    }
+
+    .card p {
+      color: #aab7c8;
+      margin-bottom: 20px;
+    }
+
+    /* =========================
+       NOSOTROS
+    ========================== */
+
+    .nosotros {
+      background: #0a1524;
+    }
+
+    .nosotros-contenido {
+      max-width: 850px;
+      margin: auto;
+      text-align: center;
+    }
+
+    .nosotros-contenido h2 {
+      font-size: 40px;
+      margin-bottom: 20px;
+    }
+
+    .nosotros-contenido p {
+      color: #b5c1d0;
+      font-size: 18px;
+    }
+
+    /* =========================
+       CONTACTO
+    ========================== */
+
+    .contacto {
+      text-align: center;
+    }
+
+    .contacto h2 {
+      font-size: 40px;
+      margin-bottom: 15px;
+    }
+
+    .contacto p {
+      color: #aab7c8;
+      margin-bottom: 35px;
+    }
+
+    .redes {
+      display: flex;
+      justify-content: center;
+      gap: 15px;
+      flex-wrap: wrap;
+    }
+
+    .whatsapp {
+      background: #25D366;
+      color: white;
+    }
+
+    .facebook {
+      background: #1877F2;
+      color: white;
+    }
+
+    /* =========================
+       BOTÓN FLOTANTE WHATSAPP
+    ========================== */
+
+    .whatsapp-flotante {
+      position: fixed;
+      right: 22px;
+      bottom: 22px;
+
+      width: 60px;
+      height: 60px;
+
+      border-radius: 50%;
+
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
+      background: #25D366;
+
+      color: white;
+      text-decoration: none;
+
+      font-size: 30px;
+
+      box-shadow: 0 8px 25px rgba(0,0,0,0.35);
+
+      z-index: 2000;
+    }
+
+    .whatsapp-flotante:hover {
+      transform: scale(1.08);
+    }
+
+    /* =========================
+       FOOTER
+    ========================== */
+
+    footer {
+      text-align: center;
+      padding: 30px;
+
+      background: #050c15;
+
+      color: #7f8ea3;
+
+      font-size: 14px;
+    }
+
+    /* =========================
+       CELULAR
+    ========================== */
+
+    @media (max-width: 800px) {
+
+      .menu {
+        display: none;
+      }
+
+      .hero {
+        min-height: 80vh;
+      }
+
+      .hero p {
+        font-size: 17px;
+      }
+
+      .grid {
+        grid-template-columns: 1fr;
+      }
+
+      .titulo-seccion h2,
+      .nosotros-contenido h2,
+      .contacto h2 {
+        font-size: 32px;
+      }
+    }
+
+  </style>
+</head>
+
+<body>
+
+  <!-- MENÚ -->
+
+  <header>
+    <nav>
+
+      <div class="logo">
+        SINTERIA
+      </div>
+
+      <ul class="menu">
+        <li><a href="#inicio">Inicio</a></li>
+        <li><a href="#sistemas">Sistemas</a></li>
+        <li><a href="#nosotros">Nosotros</a></li>
+        <li><a href="#contacto">Contacto</a></li>
+      </ul>
+
+    </nav>
+  </header>
+
+
+  <!-- PORTADA -->
+
+  <section class="hero" id="inicio">
+
+    <div class="hero-content">
+
+      <div class="etiqueta">
+        Automatización para negocios
+      </div>
+
+      <h1>
+        Tu negocio más organizado con
+        <span>Sinteria</span>
+      </h1>
+
+      <p>
+        Creamos sistemas simples y automatizados para ayudarte a
+        controlar préstamos, deudas, inventarios, gastos y procesos
+        de tu negocio sin utilizar programas complicados.
+      </p>
+
+      <div class="botones">
+
+        <a href="#sistemas" class="btn btn-principal">
+          Ver nuestros sistemas
+        </a>
+
+        <a
+          href="https://wa.me/51932280554?text=Hola%20Sinteria%20👋%2C%20estoy%20interesado%20en%20uno%20de%20sus%20sistemas.%20Quisiera%20recibir%20más%20información."
+          target="_blank"
+          class="btn btn-secundario"
+        >
+          Hablar por WhatsApp
+        </a>
+
+      </div>
+
+    </div>
+
+  </section>
+
+
+  <!-- SISTEMAS -->
+
+  <section id="sistemas">
+
+    <div class="contenedor">
+
+      <div class="titulo-seccion">
+
+        <h2>Nuestros sistemas</h2>
+
+        <p>
+          Soluciones pensadas para negocios que quieren dejar atrás
+          los registros manuales.
+        </p>
+
+      </div>
+
+
+      <div class="grid">
+
+        <div class="card">
+
+          <div class="icono">💰</div>
+
+          <h3>Control de préstamos</h3>
+
+          <p>
+            Registra préstamos, pagos, fechas de vencimiento,
+            cuotas e historial desde un sistema sencillo.
+          </p>
+
+          <a
+            href="https://wa.me/51932280554?text=Hola%20Sinteria%2C%20quiero%20información%20sobre%20el%20Sistema%20de%20Control%20de%20Préstamos."
+            target="_blank"
+            class="btn btn-principal"
+          >
+            Consultar
+          </a>
+
+        </div>
+
+
+        <div class="card">
+
+          <div class="icono">📦</div>
+
+          <h3>Control de inventario</h3>
+
+          <p>
+            Lleva el control de entradas, salidas, stock,
+            productos y movimientos de tu negocio.
+          </p>
+
+          <a
+            href="https://wa.me/51932280554?text=Hola%20Sinteria%2C%20quiero%20información%20sobre%20un%20Sistema%20de%20Inventario."
+            target="_blank"
+            class="btn btn-principal"
+          >
+            Consultar
+          </a>
+
+        </div>
+
+
+        <div class="card">
+
+          <div class="icono">📊</div>
+
+          <h3>Sistemas personalizados</h3>
+
+          <p>
+            Desarrollamos soluciones adaptadas a las necesidades
+            específicas de tu negocio.
+          </p>
+
+          <a
+            href="https://wa.me/51932280554?text=Hola%20Sinteria%2C%20quiero%20cotizar%20un%20sistema%20personalizado%20para%20mi%20negocio."
+            target="_blank"
+            class="btn btn-principal"
+          >
+            Cotizar sistema
+          </a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </section>
+
+
+  <!-- NOSOTROS -->
+
+  <section class="nosotros" id="nosotros">
+
+    <div class="nosotros-contenido">
+
+      <h2>¿Qué es Sinteria?</h2>
+
+      <p>
+        Sinteria desarrolla sistemas y automatizaciones para pequeñas
+        empresas y emprendedores que necesitan tener un mejor control
+        de su información.
+
+        Nuestro objetivo es crear herramientas fáciles de entender,
+        prácticas y accesibles, permitiendo que un negocio pueda
+        organizar sus procesos sin necesidad de aprender programas
+        complejos desde cero.
+      </p>
+
+    </div>
+
+  </section>
+
+
+  <!-- CONTACTO -->
+
+  <section id="contacto">
+
+    <div class="contenedor contacto">
+
+      <h2>¿Necesitas un sistema?</h2>
+
+      <p>
+        Cuéntanos qué necesita tu negocio y te ayudaremos a encontrar
+        una solución.
+      </p>
+
+      <div class="redes">
+
+        <a
+          href="https://wa.me/51932280554?text=Hola%20Sinteria%20👋%2C%20quisiera%20recibir%20información."
+          target="_blank"
+          class="btn whatsapp"
+        >
+          💬 WhatsApp
+        </a>
+
+
+        <!-- Cuando tengamos tu Facebook cambiaremos # por su enlace -->
+
+        <a
+          href="#"
+          class="btn facebook"
+        >
+          Facebook
+        </a>
+
+      </div>
+
+    </div>
+
+  </section>
+
+
+  <!-- WHATSAPP FLOTANTE -->
+
+  <a
+    href="https://wa.me/51932280554?text=Hola%20Sinteria%20👋%2C%20quisiera%20recibir%20más%20información."
+    target="_blank"
+    class="whatsapp-flotante"
+    title="Hablar por WhatsApp"
+  >
+    💬
+  </a>
+
+
+  <!-- PIE DE PÁGINA -->
+
+  <footer>
+
+    © 2026 Sinteria · Sistemas y automatización para negocios.
+
+  </footer>
+
+
+</body>
+</html>
