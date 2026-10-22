@@ -1,0 +1,11 @@
+# Preparación de activos
+
+El logo conserva el contenido original de `logo-sinteria.jpeg`; únicamente se prepararon tamaños WebP y favicon. No se trazó ni reconstruyó la marca.
+
+La única ilustración derivada del ZIP utilizada en la nueva versión parte de `132541.png`. Se solicitó una edición mediante la herramienta integrada de imágenes, con fondo transparente, que conserve los cuatro dispositivos de ejemplo y elimine todo el texto publicitario, logos, contactos y valores monetarios. La imagen se usa explícitamente como ilustración promocional, no como captura de un producto operativo.
+
+Activos usados: `assets/images/sistemas-ilustracion-480.webp`, `assets/images/sistemas-ilustracion-800.webp`, `assets/images/sistemas-ilustracion-1200.webp`. Solo se generaron variantes de tamaño y compresión del resultado; no se añadió detalle mediante ampliación de resolución.
+
+Prompt final de la edición:
+
+> Use case: precise-object-edit. Asset type: supporting illustration for the existing Sinteria Automatizaciones website, not a new advertisement. Edit target: supplied Sinteria promotional poster. Extract and adapt ONLY the row of four application dashboard screens near the lower middle of the poster (inventory, sales, payments, reports), with their small boxes/cart/coin/chart motifs. Deliver those four dashboard tablet objects as one clean compact landscape 3:2 composition with actual transparent background. Keep the existing visual character: dark navy tablet frames, green and electric blue/cyan accents, clean white sample dashboard surfaces. Preserve their identity as promotional illustrations, not photographs of real systems. Remove ALL poster background, headings, labels over the tablets, logos, marketing text, URLs, prices, currency figures, contact information, footer and all other panels. No new logos. No external text. Within tablets show only neutral tiny abstract table lines, bar charts and donut charts with no legible amounts, no prices, no currency signs or symbols. No large coin with currency symbol; replace that decorative coin with a plain round golden disc. Clean sharp edges, subtle transparent soft shadows, composition that is legible on a dark website. Do not redesign or reconstruct the Sinteria logo; it must not appear in this extracted asset.
