@@ -1,15 +1,19 @@
 # Sinteria Automatizaciones
 
-Sitio estático publicado en el repositorio existente Sinteria/sinteria.github.io.
+Sitio existente: https://sinteria.github.io/ — repositorio Sinteria/sinteria.github.io.
 
-URL: https://sinteria.github.io/
+Tres páginas comerciales independientes: Inicio, Sistema personalizado y Página web personalizada. Incluye 404, verificación de Google y el logotipo original.
 
-Páginas: index.html, sistema-personalizado.html, pagina-web-personalizada.html y 404.html. Cada página dispone de HTML propio y permite navegación y recarga directa en GitHub Pages.
+La actualización visual incorpora los siete afiches del paquete del titular, adaptados para retirar bordes de captura, corregir contactos y eliminar la tarifa antigua, junto con dos imágenes conceptuales nuevas. Las portadas, tarjetas, galerías, proceso, preguntas frecuentes y contacto incluyen imágenes. La galería permite ampliar, avanzar y retroceder; funciona con teclado y conserva el foco al cerrar. Los enlaces a las imágenes también funcionan sin JavaScript.
 
-Los activos se alojan en la raíz para permitir la carga conjunta desde la interfaz web de GitHub. No se necesitan paquetes ni compilación. site.css define el diseño adaptable y site.js controla menú, pestañas y animaciones. No se añadieron analítica, cookies propias ni formularios de captura.
+Animaciones de entrada, profundidad al mover el puntero, tarjetas flotantes y efectos al pasar el cursor. Se respeta el movimiento reducido del sistema y hay una opción para pausar las animaciones.
 
-Se conservan el logo original y el archivo de verificación de Google. Las imágenes antiguas se reemplazaron por la marca original para retirar los precios de sus antiguas URLs. La rama respaldo/antes-rediseno-20261022 conserva la versión previa.
+RUC facilitado por el titular: 10742038551. Contacto comercial: +51 932 280 554 / contacto.sinteria@gmail.com. No se afirma una verificación externa del estado tributario.
 
-Las ilustraciones representan ejemplos; las funciones de cada servicio se acuerdan en una cotización. El contacto es +51 932 280 554 y contacto.sinteria@gmail.com.
+Los archivos estáticos se sirven desde la raíz. No se necesitan paquetes ni compilación para GitHub Pages. site.css conserva los componentes generales; visuales.css añade la presentación con imágenes y site.js controla navegación, galería y movimiento. No se añadieron analítica, cookies propias, almacenamiento ni formularios de captura.
 
-Las páginas de privacidad y términos se mantienen fuera de esta versión pública hasta la aprobación específica del titular. Los textos propuestos se entregaron por separado para revisión.
+El respaldo remoto respaldo/antes-imagenes-20261022 conserva el commit 13c85014d30725f9a87eb2b60be0e4924376e649. El respaldo del sitio original sigue en respaldo/antes-rediseno-20261022.
+
+Los afiches y visuales muestran ejemplos. Las funciones y condiciones se acuerdan en una cotización. Las políticas pendientes de aprobación no forman parte de esta publicación ni se modificaron en esta actualización visual.
+
+El archivo visual-assets.json registra la procedencia y los tamaños. ASSET_NOTES.md documenta la preparación y los prompts. build_visuals.py actualiza el contenido de las páginas existentes con Python y lxml; no se ejecuta en el navegador ni es necesario para servir la web.
