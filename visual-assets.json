@@ -1,0 +1,83 @@
+{
+  "soluciones": {
+    "title": "Sistemas y páginas web",
+    "alt": "Material de Sinteria: hoja de cálculo, aplicación y ejemplos de sistemas y páginas web",
+    "source": "132541.png",
+    "method": "image_gen integrado: adaptación",
+    "width": 1024,
+    "height": 1536,
+    "height900": 1350
+  },
+  "inventarios": {
+    "title": "Inventarios a tu medida",
+    "alt": "Afiche de Sinteria con laptop y un ejemplo de control de inventarios en Google Sheets",
+    "source": "132528.jpg",
+    "method": "image_gen integrado: adaptación",
+    "width": 1070,
+    "height": 1470,
+    "height900": 1236
+  },
+  "stock": {
+    "title": "Control de stock y movimientos",
+    "alt": "Material de Sinteria en azul: sistema de inventarios ilustrado en laptop y celular",
+    "source": "132535.jpg",
+    "method": "image_gen integrado: adaptación",
+    "width": 1024,
+    "height": 1536,
+    "height900": 1350
+  },
+  "prestamos": {
+    "title": "Préstamos, cuotas y pagos",
+    "alt": "Afiche de Sinteria con ejemplos de préstamos, pagos y cronogramas en laptop y celular",
+    "source": "132533.jpg",
+    "method": "image_gen integrado: adaptación",
+    "width": 1024,
+    "height": 1536,
+    "height900": 1350
+  },
+  "web": {
+    "title": "Tu negocio en su propia web",
+    "alt": "Material de Sinteria para desarrollo web: laptop, celular y fotografías de distintos negocios",
+    "source": "132532.jpg",
+    "method": "image_gen integrado: adaptación",
+    "width": 1076,
+    "height": 1461,
+    "height900": 1222
+  },
+  "negocios": {
+    "title": "Un sistema para tu negocio",
+    "alt": "Afiche de Sinteria con dashboard y fotografías de ferretería, almacén, restaurante y comercio",
+    "source": "132529.jpg",
+    "method": "image_gen integrado: adaptación",
+    "width": 1024,
+    "height": 1536,
+    "height900": 1350
+  },
+  "automatizar": {
+    "title": "De tareas manuales a automatización",
+    "alt": "Material de Sinteria con laptop, dashboard y un flujo de automatización con Google Sheets",
+    "source": "132534.jpg",
+    "method": "image_gen integrado: adaptación",
+    "width": 1024,
+    "height": 1536,
+    "height900": 1350
+  },
+  "web-estudio": {
+    "title": "Diseño web para diferentes pantallas",
+    "alt": "Ilustración conceptual: laptop y celular con diseños web de restaurante y artesanía en un estudio azul",
+    "source": "Generación conceptual nueva",
+    "method": "image_gen integrado: creación",
+    "width": 1536,
+    "height": 1024,
+    "height900": 600
+  },
+  "automatizacion": {
+    "title": "Tu operación conectada",
+    "alt": "Ilustración conceptual de una persona gestionando inventarios en laptop y tablet dentro de un almacén",
+    "source": "Generación conceptual nueva",
+    "method": "image_gen integrado: creación",
+    "width": 1536,
+    "height": 1024,
+    "height900": 600
+  }
+}
