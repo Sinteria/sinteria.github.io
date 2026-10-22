@@ -1,3 +1,4 @@
 .openai/
 dist/
 __pycache__/
+*.writing.webp
