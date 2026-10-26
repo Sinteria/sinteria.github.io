@@ -19,3 +19,12 @@ Los afiches y visuales muestran ejemplos. Las funciones y condiciones se acuerda
 verify_visuals.py comprueba la unicidad global, las variantes WebP, las dimensiones y las secciones con imagen. build_visuals.py rechaza una segunda ubicación de la misma imagen. El respaldo remoto respaldo/antes-imagenes-unicas-20261022 conserva la versión b8fab6065552f0dec6034083ee445b5d3dc463fc.
 
 El archivo visual-assets.json registra la procedencia y los tamaños. ASSET_NOTES.md documenta la preparación y los prompts. build_visuals.py actualiza el contenido de las páginas existentes con Python y lxml; no se ejecuta en el navegador ni es necesario para servir la web.
+
+
+## SEO de servicios · 26 de octubre de 2026
+
+La web conserva las tres páginas comerciales y su diseño. Se refuerzan títulos, descripciones, encabezados y enlaces; se añaden páginas específicas de inventarios, Apps Script, compras y préstamos/pagos. Los SVG de estas páginas explican flujos y no representan pantallas ni trabajos de clientes. No se modifican las 52 imágenes existentes ni se publican políticas pendientes.
+
+Cada página comercial tiene URL canónica propia, metadatos sociales, datos estructurados de Organization/WebSite/WebPage/Service y ruta de navegación cuando corresponde. Se conserva la verificación de Google y el correo público existente. sitemap.xml enumera las siete páginas; 404 y verificaciones quedan fuera. Los nombres alternativos de marca se declaran en Organization y WebSite, sin saturar el contenido. No se añaden valoraciones, direcciones físicas, precios, certificaciones ni casos de éxito no confirmados.
+
+Los textos comerciales se sirven en HTML y los enlaces funcionan sin JavaScript. seo.css incluye la adaptación de las páginas de servicios y respeta el movimiento reducido ya existente. No se requieren compilación, cookies ni analítica. La publicación de cambios y la solicitud de indexación son procesos diferentes; ningún cambio garantiza indexación ni posiciones.
