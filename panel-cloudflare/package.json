@@ -1,0 +1,1 @@
+{"name":"sinteria-panel-cloudflare","private":true,"type":"module","scripts":{"build":"node build.mjs","test":"node test.mjs"},"devDependencies":{"miniflare":"4.20260515.0"}}

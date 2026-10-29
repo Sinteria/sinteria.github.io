@@ -1,0 +1,3258 @@
+{
+  "schemaVersion": 1,
+  "pages": [
+    {
+      "id": "p0",
+      "file": "index.html",
+      "name": "Sinteria",
+      "seoTitle": "Sinteria | Automatización, sistemas y páginas web en Perú",
+      "seoDescription": "Automatiza tu negocio con Sinteria: sistemas de inventarios, compras, pagos y Google Sheets con Apps Script. También creamos páginas web a medida en Perú."
+    },
+    {
+      "id": "p1",
+      "file": "sistema-personalizado.html",
+      "name": "Sistemas en Google Sheets y Apps Script en Perú",
+      "seoTitle": "Sistemas en Google Sheets y Apps Script en Perú | Sinteria",
+      "seoDescription": "Desarrollamos sistemas a medida en Google Sheets y Apps Script: inventarios, compras, ventas, pagos y reportes para negocios en Perú. Cotización gratuita."
+    },
+    {
+      "id": "p2",
+      "file": "pagina-web-personalizada.html",
+      "name": "Diseño de páginas web para negocios en Perú",
+      "seoTitle": "Diseño de páginas web para negocios en Perú | Sinteria",
+      "seoDescription": "Creamos páginas web personalizadas para negocios en Perú: diseño para celular, catálogos y contacto por WhatsApp. Consulta y cotización gratuita con Sinteria."
+    },
+    {
+      "id": "p3",
+      "file": "sistema-inventarios-google-sheets.html",
+      "name": "Sistema de inventarios en Google Sheets en Perú",
+      "seoTitle": "Sistema de inventarios en Google Sheets en Perú | Sinteria",
+      "seoDescription": "Sistema de inventarios a medida en Google Sheets: productos, entradas, salidas, stock y reportes para tu negocio en Perú. Cotiza gratis con Sinteria."
+    },
+    {
+      "id": "p4",
+      "file": "automatizacion-google-sheets-apps-script.html",
+      "name": "Automatización con Google Sheets y Apps Script",
+      "seoTitle": "Automatización con Google Sheets y Apps Script | Sinteria",
+      "seoDescription": "Automatiza registros, reportes y tareas de tu negocio con Google Sheets y Apps Script. Desarrollo personalizado para empresas en Perú. Cotización gratis."
+    },
+    {
+      "id": "p5",
+      "file": "sistema-compras-requerimientos.html",
+      "name": "Sistema de compras y requerimientos en Perú",
+      "seoTitle": "Sistema de compras y requerimientos en Perú | Sinteria",
+      "seoDescription": "Organiza requerimientos, proveedores, cotizaciones y entregas con un sistema de compras personalizado en Google Sheets y Apps Script. Cotiza con Sinteria."
+    },
+    {
+      "id": "p6",
+      "file": "sistema-prestamos-pagos.html",
+      "name": "Sistema de préstamos y pagos en Google Sheets",
+      "seoTitle": "Sistema de préstamos y pagos en Google Sheets | Sinteria",
+      "seoDescription": "Desarrollamos sistemas para registrar préstamos, cuotas, pagos y saldos en Google Sheets. Herramientas personalizadas para tu negocio. Cotiza con Sinteria."
+    }
+  ],
+  "fields": [
+    {
+      "id": "p0-text-0",
+      "page": "p0",
+      "kind": "text",
+      "tag": "h1",
+      "label": "Sistemas a medida. Automatización. Páginas web.",
+      "section": "Portada",
+      "value": "Sistemas a medida. Automatización. Páginas web.",
+      "maxLength": 180
+    },
+    {
+      "id": "p0-text-1",
+      "page": "p0",
+      "kind": "text",
+      "tag": "p",
+      "label": "Creamos sistemas en Google Sheets y Apps Script para controlar inventari",
+      "section": "Portada",
+      "value": "Creamos sistemas en Google Sheets y Apps Script para controlar inventarios, compras, ventas y pagos. También diseñamos páginas web para negocios en Perú , con tu identidad y contacto por WhatsApp.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p0-text-2",
+      "page": "p0",
+      "kind": "text",
+      "tag": "p",
+      "label": "Material visual de Sinteria · Toca la imagen para ampliarla",
+      "section": "Portada",
+      "value": "Material visual de Sinteria · Toca la imagen para ampliarla",
+      "maxLength": 1600
+    },
+    {
+      "id": "p0-text-3",
+      "page": "p0",
+      "kind": "text",
+      "tag": "h2",
+      "label": "Sistemas y diseño web para tu negocio en Perú.",
+      "section": "Portada",
+      "value": "Sistemas y diseño web para tu negocio en Perú.",
+      "maxLength": 180
+    },
+    {
+      "id": "p0-text-4",
+      "page": "p0",
+      "kind": "text",
+      "tag": "p",
+      "label": "Desde el control interno hasta tu presencia en internet. Tú eliges por d",
+      "section": "Sistemas y diseño web para tu negocio en Perú.",
+      "value": "Desde el control interno hasta tu presencia en internet. Tú eliges por dónde empezamos.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p0-text-5",
+      "page": "p0",
+      "kind": "text",
+      "tag": "h3",
+      "label": "Sistema personalizado",
+      "section": "Sistemas y diseño web para tu negocio en Perú.",
+      "value": "Sistema personalizado",
+      "maxLength": 180
+    },
+    {
+      "id": "p0-text-6",
+      "page": "p0",
+      "kind": "text",
+      "tag": "p",
+      "label": "Conecta tus hojas de cálculo, registros y procesos en una herramienta cr",
+      "section": "Sistemas y diseño web para tu negocio en Perú.",
+      "value": "Conecta tus hojas de cálculo, registros y procesos en una herramienta creada para tu negocio.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p0-text-7",
+      "page": "p0",
+      "kind": "text",
+      "tag": "h3",
+      "label": "Página web personalizada",
+      "section": "Sistemas y diseño web para tu negocio en Perú.",
+      "value": "Página web personalizada",
+      "maxLength": 180
+    },
+    {
+      "id": "p0-text-8",
+      "page": "p0",
+      "kind": "text",
+      "tag": "p",
+      "label": "Presenta tu marca, muestra lo que ofreces y abre una conversación con tu",
+      "section": "Sistemas y diseño web para tu negocio en Perú.",
+      "value": "Presenta tu marca, muestra lo que ofreces y abre una conversación con tus próximos clientes.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p0-text-9",
+      "page": "p0",
+      "kind": "text",
+      "tag": "h2",
+      "label": "Un vistazo a lo que podemos crear contigo.",
+      "section": "Sistemas y diseño web para tu negocio en Perú.",
+      "value": "Un vistazo a lo que podemos crear contigo.",
+      "maxLength": 180
+    },
+    {
+      "id": "p0-text-10",
+      "page": "p0",
+      "kind": "text",
+      "tag": "p",
+      "label": "Tus procesos, tus productos y tus ideas, con una nueva forma de trabajar",
+      "section": "Un vistazo a lo que podemos crear contigo.",
+      "value": "Tus procesos, tus productos y tus ideas, con una nueva forma de trabajar.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p0-text-11",
+      "page": "p0",
+      "kind": "text",
+      "tag": "h3",
+      "label": "Un sistema para tu negocio",
+      "section": "Un vistazo a lo que podemos crear contigo.",
+      "value": "Un sistema para tu negocio",
+      "maxLength": 180
+    },
+    {
+      "id": "p0-text-12",
+      "page": "p0",
+      "kind": "text",
+      "tag": "h3",
+      "label": "De tareas manuales a automatización",
+      "section": "Un vistazo a lo que podemos crear contigo.",
+      "value": "De tareas manuales a automatización",
+      "maxLength": 180
+    },
+    {
+      "id": "p0-text-13",
+      "page": "p0",
+      "kind": "text",
+      "tag": "h3",
+      "label": "Ideas que se conectan",
+      "section": "Un vistazo a lo que podemos crear contigo.",
+      "value": "Ideas que se conectan",
+      "maxLength": 180
+    },
+    {
+      "id": "p0-text-15",
+      "page": "p0",
+      "kind": "text",
+      "tag": "h2",
+      "label": "Más claridad en tu día a día.",
+      "section": "Un vistazo a lo que podemos crear contigo.",
+      "value": "Más claridad en tu día a día.",
+      "maxLength": 180
+    },
+    {
+      "id": "p0-text-16",
+      "page": "p0",
+      "kind": "text",
+      "tag": "h3",
+      "label": "Menos trabajo manual",
+      "section": "Más claridad en tu día a día.",
+      "value": "Menos trabajo manual",
+      "maxLength": 180
+    },
+    {
+      "id": "p0-text-17",
+      "page": "p0",
+      "kind": "text",
+      "tag": "p",
+      "label": "Dedica tu tiempo a tu negocio, con tareas y registros más conectados.",
+      "section": "Más claridad en tu día a día.",
+      "value": "Dedica tu tiempo a tu negocio, con tareas y registros más conectados.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p0-text-18",
+      "page": "p0",
+      "kind": "text",
+      "tag": "h3",
+      "label": "Todo más organizado",
+      "section": "Más claridad en tu día a día.",
+      "value": "Todo más organizado",
+      "maxLength": 180
+    },
+    {
+      "id": "p0-text-19",
+      "page": "p0",
+      "kind": "text",
+      "tag": "p",
+      "label": "Productos, movimientos y procesos con una estructura más clara.",
+      "section": "Más claridad en tu día a día.",
+      "value": "Productos, movimientos y procesos con una estructura más clara.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p0-text-20",
+      "page": "p0",
+      "kind": "text",
+      "tag": "h3",
+      "label": "Datos para decidir",
+      "section": "Más claridad en tu día a día.",
+      "value": "Datos para decidir",
+      "maxLength": 180
+    },
+    {
+      "id": "p0-text-21",
+      "page": "p0",
+      "kind": "text",
+      "tag": "p",
+      "label": "Consulta la información y los reportes que tu operación necesita.",
+      "section": "Más claridad en tu día a día.",
+      "value": "Consulta la información y los reportes que tu operación necesita.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p0-text-22",
+      "page": "p0",
+      "kind": "text",
+      "tag": "h3",
+      "label": "A tu alcance",
+      "section": "Más claridad en tu día a día.",
+      "value": "A tu alcance",
+      "maxLength": 180
+    },
+    {
+      "id": "p0-text-23",
+      "page": "p0",
+      "kind": "text",
+      "tag": "p",
+      "label": "Sistemas y páginas pensados para diferentes dispositivos.",
+      "section": "Más claridad en tu día a día.",
+      "value": "Sistemas y páginas pensados para diferentes dispositivos.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p0-text-24",
+      "page": "p0",
+      "kind": "text",
+      "tag": "h2",
+      "label": "Primero entendemos tu forma de trabajar.",
+      "section": "Más claridad en tu día a día.",
+      "value": "Primero entendemos tu forma de trabajar.",
+      "maxLength": 180
+    },
+    {
+      "id": "p0-text-25",
+      "page": "p0",
+      "kind": "text",
+      "tag": "p",
+      "label": "Cada negocio tiene sus propios retos. Te escuchamos, revisamos tus neces",
+      "section": "Primero entendemos tu forma de trabajar.",
+      "value": "Cada negocio tiene sus propios retos. Te escuchamos, revisamos tus necesidades y construimos una propuesta con lo que realmente necesitas.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p0-text-26",
+      "page": "p0",
+      "kind": "text",
+      "tag": "h2",
+      "label": "Cuéntanos tu idea. Démosle forma juntos.",
+      "section": "Primero entendemos tu forma de trabajar.",
+      "value": "Cuéntanos tu idea. Démosle forma juntos.",
+      "maxLength": 180
+    },
+    {
+      "id": "p0-text-27",
+      "page": "p0",
+      "kind": "text",
+      "tag": "p",
+      "label": "Cuéntanos qué necesitas organizar o mostrar en internet. Atendemos proye",
+      "section": "Cuéntanos tu idea. Démosle forma juntos.",
+      "value": "Cuéntanos qué necesitas organizar o mostrar en internet. Atendemos proyectos de forma remota en Perú. La consulta inicial y la cotización son gratuitas.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p0-image-0",
+      "page": "p0",
+      "kind": "image",
+      "label": "Imagen decorativa 1",
+      "value": {
+        "src": "/inicio-organizacion-900.webp",
+        "alt": "",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p0-image-1",
+      "page": "p0",
+      "kind": "image",
+      "label": "Imagen decorativa 2",
+      "value": {
+        "src": "/inicio-presencia-900.webp",
+        "alt": "",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p0-image-2",
+      "page": "p0",
+      "kind": "image",
+      "label": "Material de Sinteria: hoja de cálculo, aplicación y ejemplos de sistemas y páginas web",
+      "value": {
+        "src": "/soluciones-900.webp",
+        "alt": "Material de Sinteria: hoja de cálculo, aplicación y ejemplos de sistemas y páginas web",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p0-image-3",
+      "page": "p0",
+      "kind": "image",
+      "label": "Escena conceptual: tablet con panel de gestión en un estudio oscuro",
+      "value": {
+        "src": "/servicio-sistemas-900.webp",
+        "alt": "Escena conceptual: tablet con panel de gestión en un estudio oscuro",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p0-image-4",
+      "page": "p0",
+      "kind": "image",
+      "label": "Escena conceptual: pantalla de escritorio con una tienda de calzado",
+      "value": {
+        "src": "/servicio-web-900.webp",
+        "alt": "Escena conceptual: pantalla de escritorio con una tienda de calzado",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p0-image-5",
+      "page": "p0",
+      "kind": "image",
+      "label": "Afiche de Sinteria con dashboard y fotografías de ferretería, almacén, restaurante y comercio",
+      "value": {
+        "src": "/negocios-900.webp",
+        "alt": "Afiche de Sinteria con dashboard y fotografías de ferretería, almacén, restaurante y comercio",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p0-image-6",
+      "page": "p0",
+      "kind": "image",
+      "label": "Material de Sinteria con laptop, dashboard y un flujo de automatización con Google Sheets",
+      "value": {
+        "src": "/automatizar-900.webp",
+        "alt": "Material de Sinteria con laptop, dashboard y un flujo de automatización con Google Sheets",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p0-image-7",
+      "page": "p0",
+      "kind": "image",
+      "label": "Composición conceptual de módulos de trabajo conectados",
+      "value": {
+        "src": "/inicio-integracion-900.webp",
+        "alt": "Composición conceptual de módulos de trabajo conectados",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p0-image-8",
+      "page": "p0",
+      "kind": "image",
+      "label": "Escena conceptual: herramientas de trabajo junto a un reloj de mesa",
+      "value": {
+        "src": "/beneficio-tiempo-900.webp",
+        "alt": "Escena conceptual: herramientas de trabajo junto a un reloj de mesa",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p0-image-9",
+      "page": "p0",
+      "kind": "image",
+      "label": "Escena conceptual: materiales y archivos organizados por categorías",
+      "value": {
+        "src": "/beneficio-orden-900.webp",
+        "alt": "Escena conceptual: materiales y archivos organizados por categorías",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p0-image-10",
+      "page": "p0",
+      "kind": "image",
+      "label": "Escena conceptual: una persona analiza gráficas impresas",
+      "value": {
+        "src": "/beneficio-datos-900.webp",
+        "alt": "Escena conceptual: una persona analiza gráficas impresas",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p0-image-11",
+      "page": "p0",
+      "kind": "image",
+      "label": "Escena conceptual: celular con panel de trabajo en una cafetería",
+      "value": {
+        "src": "/beneficio-acceso-900.webp",
+        "alt": "Escena conceptual: celular con panel de trabajo en una cafetería",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p0-image-12",
+      "page": "p0",
+      "kind": "image",
+      "label": "Escena conceptual: conversación de trabajo y notas en una mesa",
+      "value": {
+        "src": "/inicio-escucha-900.webp",
+        "alt": "Escena conceptual: conversación de trabajo y notas en una mesa",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p0-image-13",
+      "page": "p0",
+      "kind": "image",
+      "label": "Escena conceptual: primer boceto de una idea en un cuaderno",
+      "value": {
+        "src": "/contacto-inicio-900.webp",
+        "alt": "Escena conceptual: primer boceto de una idea en un cuaderno",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p1-text-0",
+      "page": "p1",
+      "kind": "text",
+      "tag": "h1",
+      "label": "Sistemas en Google Sheets y Apps Script.",
+      "section": "Portada",
+      "value": "Sistemas en Google Sheets y Apps Script.",
+      "maxLength": 180
+    },
+    {
+      "id": "p1-text-1",
+      "page": "p1",
+      "kind": "text",
+      "tag": "p",
+      "label": "Desarrollamos sistemas personalizados para negocios en Perú . Organiza i",
+      "section": "Portada",
+      "value": "Desarrollamos sistemas personalizados para negocios en Perú . Organiza inventarios, compras, ventas, pagos y reportes con herramientas que siguen tu proceso y conectan tus hojas de cálculo.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p1-text-2",
+      "page": "p1",
+      "kind": "text",
+      "tag": "p",
+      "label": "Material visual de Sinteria · Toca la imagen para ampliarla",
+      "section": "Portada",
+      "value": "Material visual de Sinteria · Toca la imagen para ampliarla",
+      "maxLength": 1600
+    },
+    {
+      "id": "p1-text-3",
+      "page": "p1",
+      "kind": "text",
+      "tag": "h2",
+      "label": "Un sistema. Muchas posibilidades.",
+      "section": "Portada",
+      "value": "Un sistema. Muchas posibilidades.",
+      "maxLength": 180
+    },
+    {
+      "id": "p1-text-4",
+      "page": "p1",
+      "kind": "text",
+      "tag": "p",
+      "label": "Estos son ejemplos de lo que podemos desarrollar. Cada propuesta se adap",
+      "section": "Un sistema. Muchas posibilidades.",
+      "value": "Estos son ejemplos de lo que podemos desarrollar. Cada propuesta se adapta a tu forma de trabajar.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p1-text-5",
+      "page": "p1",
+      "kind": "text",
+      "tag": "h3",
+      "label": "Inventarios y stock",
+      "section": "Un sistema. Muchas posibilidades.",
+      "value": "Inventarios y stock",
+      "maxLength": 180
+    },
+    {
+      "id": "p1-text-6",
+      "page": "p1",
+      "kind": "text",
+      "tag": "p",
+      "label": "Organiza productos, entradas, salidas, ubicaciones y niveles de stock se",
+      "section": "Un sistema. Muchas posibilidades.",
+      "value": "Organiza productos, entradas, salidas, ubicaciones y niveles de stock según tu operación.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p1-text-7",
+      "page": "p1",
+      "kind": "text",
+      "tag": "h3",
+      "label": "Compras y requerimientos",
+      "section": "Un sistema. Muchas posibilidades.",
+      "value": "Compras y requerimientos",
+      "maxLength": 180
+    },
+    {
+      "id": "p1-text-8",
+      "page": "p1",
+      "kind": "text",
+      "tag": "p",
+      "label": "Conecta solicitudes, proveedores, cotizaciones y seguimiento de entregas",
+      "section": "Un sistema. Muchas posibilidades.",
+      "value": "Conecta solicitudes, proveedores, cotizaciones y seguimiento de entregas.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p1-text-9",
+      "page": "p1",
+      "kind": "text",
+      "tag": "h3",
+      "label": "Ventas y pedidos",
+      "section": "Un sistema. Muchas posibilidades.",
+      "value": "Ventas y pedidos",
+      "maxLength": 180
+    },
+    {
+      "id": "p1-text-10",
+      "page": "p1",
+      "kind": "text",
+      "tag": "p",
+      "label": "Lleva el registro de clientes, pedidos y productos con el seguimiento qu",
+      "section": "Un sistema. Muchas posibilidades.",
+      "value": "Lleva el registro de clientes, pedidos y productos con el seguimiento que necesitas.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p1-text-11",
+      "page": "p1",
+      "kind": "text",
+      "tag": "h3",
+      "label": "Pagos y cobranzas",
+      "section": "Un sistema. Muchas posibilidades.",
+      "value": "Pagos y cobranzas",
+      "maxLength": 180
+    },
+    {
+      "id": "p1-text-12",
+      "page": "p1",
+      "kind": "text",
+      "tag": "p",
+      "label": "Ordena vencimientos, pagos, saldos y pendientes en un mismo flujo.",
+      "section": "Un sistema. Muchas posibilidades.",
+      "value": "Ordena vencimientos, pagos, saldos y pendientes en un mismo flujo.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p1-text-13",
+      "page": "p1",
+      "kind": "text",
+      "tag": "h3",
+      "label": "Préstamos y cuotas",
+      "section": "Un sistema. Muchas posibilidades.",
+      "value": "Préstamos y cuotas",
+      "maxLength": 180
+    },
+    {
+      "id": "p1-text-14",
+      "page": "p1",
+      "kind": "text",
+      "tag": "p",
+      "label": "Consulta cronogramas, cuotas y movimientos con la estructura que definam",
+      "section": "Un sistema. Muchas posibilidades.",
+      "value": "Consulta cronogramas, cuotas y movimientos con la estructura que definamos contigo.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p1-text-15",
+      "page": "p1",
+      "kind": "text",
+      "tag": "h3",
+      "label": "Dashboards y reportes",
+      "section": "Un sistema. Muchas posibilidades.",
+      "value": "Dashboards y reportes",
+      "maxLength": 180
+    },
+    {
+      "id": "p1-text-16",
+      "page": "p1",
+      "kind": "text",
+      "tag": "p",
+      "label": "Reúne indicadores y resúmenes que te ayuden a entender tus datos.",
+      "section": "Un sistema. Muchas posibilidades.",
+      "value": "Reúne indicadores y resúmenes que te ayuden a entender tus datos.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p1-text-18",
+      "page": "p1",
+      "kind": "text",
+      "tag": "h2",
+      "label": "Herramientas que se adaptan a tu operación.",
+      "section": "Un sistema. Muchas posibilidades.",
+      "value": "Herramientas que se adaptan a tu operación.",
+      "maxLength": 180
+    },
+    {
+      "id": "p1-text-19",
+      "page": "p1",
+      "kind": "text",
+      "tag": "p",
+      "label": "Explora el material de Sinteria para inventarios, movimientos, préstamos",
+      "section": "Herramientas que se adaptan a tu operación.",
+      "value": "Explora el material de Sinteria para inventarios, movimientos, préstamos y pagos.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p1-text-20",
+      "page": "p1",
+      "kind": "text",
+      "tag": "h3",
+      "label": "Inventarios a tu medida",
+      "section": "Herramientas que se adaptan a tu operación.",
+      "value": "Inventarios a tu medida",
+      "maxLength": 180
+    },
+    {
+      "id": "p1-text-21",
+      "page": "p1",
+      "kind": "text",
+      "tag": "h3",
+      "label": "Préstamos, cuotas y pagos",
+      "section": "Herramientas que se adaptan a tu operación.",
+      "value": "Préstamos, cuotas y pagos",
+      "maxLength": 180
+    },
+    {
+      "id": "p1-text-22",
+      "page": "p1",
+      "kind": "text",
+      "tag": "h3",
+      "label": "Tus procesos, en un mismo lugar",
+      "section": "Herramientas que se adaptan a tu operación.",
+      "value": "Tus procesos, en un mismo lugar",
+      "maxLength": 180
+    },
+    {
+      "id": "p1-text-24",
+      "page": "p1",
+      "kind": "text",
+      "tag": "h2",
+      "label": "Menos pasos repetidos. Más conexión entre tus datos.",
+      "section": "Herramientas que se adaptan a tu operación.",
+      "value": "Menos pasos repetidos. Más conexión entre tus datos.",
+      "maxLength": 180
+    },
+    {
+      "id": "p1-text-25",
+      "page": "p1",
+      "kind": "text",
+      "tag": "p",
+      "label": "Google Sheets puede ser el punto de partida. Con Apps Script creamos int",
+      "section": "Menos pasos repetidos. Más conexión entre tus datos.",
+      "value": "Google Sheets puede ser el punto de partida. Con Apps Script creamos interfaces y automatizaciones alrededor de tus procesos.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p1-text-26",
+      "page": "p1",
+      "kind": "text",
+      "tag": "h2",
+      "label": "De una buena idea a una solución para ti.",
+      "section": "Menos pasos repetidos. Más conexión entre tus datos.",
+      "value": "De una buena idea a una solución para ti.",
+      "maxLength": 180
+    },
+    {
+      "id": "p1-text-27",
+      "page": "p1",
+      "kind": "text",
+      "tag": "p",
+      "label": "Una conversación clara, una propuesta a tu medida y un trabajo que revis",
+      "section": "De una buena idea a una solución para ti.",
+      "value": "Una conversación clara, una propuesta a tu medida y un trabajo que revisamos contigo.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p1-text-28",
+      "page": "p1",
+      "kind": "text",
+      "tag": "h3",
+      "label": "Cuéntanos tu proceso",
+      "section": "De una buena idea a una solución para ti.",
+      "value": "Cuéntanos tu proceso",
+      "maxLength": 180
+    },
+    {
+      "id": "p1-text-29",
+      "page": "p1",
+      "kind": "text",
+      "tag": "p",
+      "label": "¿Qué haces hoy y qué te gustaría mejorar? Revisamos tu objetivo y los ma",
+      "section": "De una buena idea a una solución para ti.",
+      "value": "¿Qué haces hoy y qué te gustaría mejorar? Revisamos tu objetivo y los materiales de ejemplo.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p1-text-30",
+      "page": "p1",
+      "kind": "text",
+      "tag": "h3",
+      "label": "Definimos lo que necesitas",
+      "section": "De una buena idea a una solución para ti.",
+      "value": "Definimos lo que necesitas",
+      "maxLength": 180
+    },
+    {
+      "id": "p1-text-31",
+      "page": "p1",
+      "kind": "text",
+      "tag": "p",
+      "label": "Acordamos las funciones, el diseño, los plazos y las condiciones de tu p",
+      "section": "De una buena idea a una solución para ti.",
+      "value": "Acordamos las funciones, el diseño, los plazos y las condiciones de tu propuesta.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p1-text-32",
+      "page": "p1",
+      "kind": "text",
+      "tag": "h3",
+      "label": "Construimos y revisamos contigo",
+      "section": "De una buena idea a una solución para ti.",
+      "value": "Construimos y revisamos contigo",
+      "maxLength": 180
+    },
+    {
+      "id": "p1-text-33",
+      "page": "p1",
+      "kind": "text",
+      "tag": "p",
+      "label": "Desarrollamos, probamos y coordinamos la entrega según el alcance acorda",
+      "section": "De una buena idea a una solución para ti.",
+      "value": "Desarrollamos, probamos y coordinamos la entrega según el alcance acordado.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p1-text-34",
+      "page": "p1",
+      "kind": "text",
+      "tag": "h2",
+      "label": "Tu siguiente paso empieza aquí.",
+      "section": "De una buena idea a una solución para ti.",
+      "value": "Tu siguiente paso empieza aquí.",
+      "maxLength": 180
+    },
+    {
+      "id": "p1-text-35",
+      "page": "p1",
+      "kind": "text",
+      "tag": "p",
+      "label": "Te escuchamos antes de proponerte una solución.",
+      "section": "Tu siguiente paso empieza aquí.",
+      "value": "Te escuchamos antes de proponerte una solución.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p1-text-36",
+      "page": "p1",
+      "kind": "text",
+      "tag": "h2",
+      "label": "Antes de comenzar.",
+      "section": "Tu siguiente paso empieza aquí.",
+      "value": "Antes de comenzar.",
+      "maxLength": 180
+    },
+    {
+      "id": "p1-text-37",
+      "page": "p1",
+      "kind": "text",
+      "tag": "summary",
+      "label": "¿Tengo que saber programar?",
+      "section": "Antes de comenzar.",
+      "value": "¿Tengo que saber programar?",
+      "maxLength": 1600
+    },
+    {
+      "id": "p1-text-38",
+      "page": "p1",
+      "kind": "text",
+      "tag": "p",
+      "label": "No. Nos cuentas cómo trabajas y revisamos qué herramienta se adapta a tu",
+      "section": "Antes de comenzar.",
+      "value": "No. Nos cuentas cómo trabajas y revisamos qué herramienta se adapta a tu proceso. La orientación y la entrega se definen contigo.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p1-text-39",
+      "page": "p1",
+      "kind": "text",
+      "tag": "summary",
+      "label": "¿Puede trabajar con la hoja que ya utilizo?",
+      "section": "Antes de comenzar.",
+      "value": "¿Puede trabajar con la hoja que ya utilizo?",
+      "maxLength": 1600
+    },
+    {
+      "id": "p1-text-40",
+      "page": "p1",
+      "kind": "text",
+      "tag": "p",
+      "label": "Podemos revisar su estructura y evaluar qué partes conviene conservar o ",
+      "section": "Antes de comenzar.",
+      "value": "Podemos revisar su estructura y evaluar qué partes conviene conservar o adaptar. Para la primera consulta, utiliza datos de ejemplo.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p1-text-41",
+      "page": "p1",
+      "kind": "text",
+      "tag": "summary",
+      "label": "¿Todas las funciones están incluidas?",
+      "section": "Antes de comenzar.",
+      "value": "¿Todas las funciones están incluidas?",
+      "maxLength": 1600
+    },
+    {
+      "id": "p1-text-42",
+      "page": "p1",
+      "kind": "text",
+      "tag": "p",
+      "label": "Las imágenes y los módulos muestran posibilidades. Las funciones, usuari",
+      "section": "Antes de comenzar.",
+      "value": "Las imágenes y los módulos muestran posibilidades. Las funciones, usuarios, permisos e integraciones incluidos se detallan en tu cotización.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p1-text-43",
+      "page": "p1",
+      "kind": "text",
+      "tag": "summary",
+      "label": "¿Cómo solicito una cotización gratuita?",
+      "section": "Antes de comenzar.",
+      "value": "¿Cómo solicito una cotización gratuita?",
+      "maxLength": 1600
+    },
+    {
+      "id": "p1-text-44",
+      "page": "p1",
+      "kind": "text",
+      "tag": "p",
+      "label": "Escríbenos por WhatsApp al +51 932 280 554 o por correo a contacto.sinte",
+      "section": "Antes de comenzar.",
+      "value": "Escríbenos por WhatsApp al +51 932 280 554 o por correo a contacto.sinteria@gmail.com. Cuéntanos qué necesitas organizar o automatizar.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p1-text-45",
+      "page": "p1",
+      "kind": "text",
+      "tag": "h2",
+      "label": "Cuéntanos tu idea. Démosle forma juntos.",
+      "section": "Antes de comenzar.",
+      "value": "Cuéntanos tu idea. Démosle forma juntos.",
+      "maxLength": 180
+    },
+    {
+      "id": "p1-text-46",
+      "page": "p1",
+      "kind": "text",
+      "tag": "p",
+      "label": "Tú nos cuentas lo que necesitas; nosotros le damos forma a una solución ",
+      "section": "Cuéntanos tu idea. Démosle forma juntos.",
+      "value": "Tú nos cuentas lo que necesitas; nosotros le damos forma a una solución para tu negocio.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p1-image-0",
+      "page": "p1",
+      "kind": "image",
+      "label": "Imagen decorativa 1",
+      "value": {
+        "src": "/sistema-flujo-900.webp",
+        "alt": "",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p1-image-1",
+      "page": "p1",
+      "kind": "image",
+      "label": "Imagen decorativa 2",
+      "value": {
+        "src": "/sistema-equipo-900.webp",
+        "alt": "",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p1-image-2",
+      "page": "p1",
+      "kind": "image",
+      "label": "Material de Sinteria en azul: sistema de inventarios ilustrado en laptop y celular",
+      "value": {
+        "src": "/stock-900.webp",
+        "alt": "Material de Sinteria en azul: sistema de inventarios ilustrado en laptop y celular",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p1-image-3",
+      "page": "p1",
+      "kind": "image",
+      "label": "Escena conceptual: estantes con productos y etiquetas de inventario",
+      "value": {
+        "src": "/sistema-inventario-900.webp",
+        "alt": "Escena conceptual: estantes con productos y etiquetas de inventario",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p1-image-4",
+      "page": "p1",
+      "kind": "image",
+      "label": "Escena conceptual: selección de materiales con una orden de compra",
+      "value": {
+        "src": "/sistema-compras-900.webp",
+        "alt": "Escena conceptual: selección de materiales con una orden de compra",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p1-image-5",
+      "page": "p1",
+      "kind": "image",
+      "label": "Escena conceptual: preparación de un pedido en un pequeño comercio",
+      "value": {
+        "src": "/sistema-ventas-900.webp",
+        "alt": "Escena conceptual: preparación de un pedido en un pequeño comercio",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p1-image-6",
+      "page": "p1",
+      "kind": "image",
+      "label": "Escena conceptual: revisión de recibos y fechas de pago",
+      "value": {
+        "src": "/sistema-pagos-900.webp",
+        "alt": "Escena conceptual: revisión de recibos y fechas de pago",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p1-image-7",
+      "page": "p1",
+      "kind": "image",
+      "label": "Escena conceptual: calendario de cuotas y carpeta de seguimiento",
+      "value": {
+        "src": "/sistema-cuotas-900.webp",
+        "alt": "Escena conceptual: calendario de cuotas y carpeta de seguimiento",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p1-image-8",
+      "page": "p1",
+      "kind": "image",
+      "label": "Escena conceptual: monitor con gráficos de gestión ilustrativos",
+      "value": {
+        "src": "/sistema-reportes-900.webp",
+        "alt": "Escena conceptual: monitor con gráficos de gestión ilustrativos",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p1-image-9",
+      "page": "p1",
+      "kind": "image",
+      "label": "Afiche de Sinteria con laptop y un ejemplo de control de inventarios en Google Sheets",
+      "value": {
+        "src": "/inventarios-900.webp",
+        "alt": "Afiche de Sinteria con laptop y un ejemplo de control de inventarios en Google Sheets",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p1-image-10",
+      "page": "p1",
+      "kind": "image",
+      "label": "Afiche de Sinteria con ejemplos de préstamos, pagos y cronogramas en laptop y celular",
+      "value": {
+        "src": "/prestamos-900.webp",
+        "alt": "Afiche de Sinteria con ejemplos de préstamos, pagos y cronogramas en laptop y celular",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p1-image-11",
+      "page": "p1",
+      "kind": "image",
+      "label": "Composición conceptual de tarjetas de procesos en una mesa",
+      "value": {
+        "src": "/sistema-conexion-900.webp",
+        "alt": "Composición conceptual de tarjetas de procesos en una mesa",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p1-image-12",
+      "page": "p1",
+      "kind": "image",
+      "label": "Ilustración conceptual de una persona gestionando inventarios en laptop y tablet dentro de un almacén",
+      "value": {
+        "src": "/automatizacion-900.webp",
+        "alt": "Ilustración conceptual de una persona gestionando inventarios en laptop y tablet dentro de un almacén",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p1-image-13",
+      "page": "p1",
+      "kind": "image",
+      "label": "Escena conceptual: recorrido de una operación en una pizarra",
+      "value": {
+        "src": "/sistema-descubrimiento-900.webp",
+        "alt": "Escena conceptual: recorrido de una operación en una pizarra",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p1-image-14",
+      "page": "p1",
+      "kind": "image",
+      "label": "Escena conceptual: propuesta de trabajo y módulos organizados",
+      "value": {
+        "src": "/sistema-propuesta-900.webp",
+        "alt": "Escena conceptual: propuesta de trabajo y módulos organizados",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p1-image-15",
+      "page": "p1",
+      "kind": "image",
+      "label": "Escena conceptual: prueba de un sistema de gestión en una laptop",
+      "value": {
+        "src": "/sistema-pruebas-900.webp",
+        "alt": "Escena conceptual: prueba de un sistema de gestión en una laptop",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p1-image-16",
+      "page": "p1",
+      "kind": "image",
+      "label": "Escena conceptual: manual de uso abierto y notas de consulta",
+      "value": {
+        "src": "/sistema-orientacion-900.webp",
+        "alt": "Escena conceptual: manual de uso abierto y notas de consulta",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p1-image-17",
+      "page": "p1",
+      "kind": "image",
+      "label": "Escena conceptual: espacio preparado para una conversación de trabajo",
+      "value": {
+        "src": "/sistema-contacto-900.webp",
+        "alt": "Escena conceptual: espacio preparado para una conversación de trabajo",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p2-text-0",
+      "page": "p2",
+      "kind": "text",
+      "tag": "h1",
+      "label": "Diseño de páginas web para negocios en Perú.",
+      "section": "Portada",
+      "value": "Diseño de páginas web para negocios en Perú.",
+      "maxLength": 180
+    },
+    {
+      "id": "p2-text-1",
+      "page": "p2",
+      "kind": "text",
+      "tag": "p",
+      "label": "Creamos páginas web personalizadas para presentar tus servicios, mostrar",
+      "section": "Portada",
+      "value": "Creamos páginas web personalizadas para presentar tus servicios, mostrar tu catálogo y facilitar el contacto por WhatsApp. Un diseño con tu identidad, adaptable a celular y computadora.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p2-text-2",
+      "page": "p2",
+      "kind": "text",
+      "tag": "p",
+      "label": "Material visual de Sinteria · Toca la imagen para ampliarla",
+      "section": "Portada",
+      "value": "Material visual de Sinteria · Toca la imagen para ampliarla",
+      "maxLength": 1600
+    },
+    {
+      "id": "p2-text-3",
+      "page": "p2",
+      "kind": "text",
+      "tag": "h2",
+      "label": "Todo empieza con lo que quieres comunicar.",
+      "section": "Portada",
+      "value": "Todo empieza con lo que quieres comunicar.",
+      "maxLength": 180
+    },
+    {
+      "id": "p2-text-4",
+      "page": "p2",
+      "kind": "text",
+      "tag": "p",
+      "label": "Definimos contigo las páginas, el contenido y las herramientas que tu ne",
+      "section": "Todo empieza con lo que quieres comunicar.",
+      "value": "Definimos contigo las páginas, el contenido y las herramientas que tu negocio necesita.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p2-text-5",
+      "page": "p2",
+      "kind": "text",
+      "tag": "h3",
+      "label": "Diseño con tu identidad",
+      "section": "Todo empieza con lo que quieres comunicar.",
+      "value": "Diseño con tu identidad",
+      "maxLength": 180
+    },
+    {
+      "id": "p2-text-6",
+      "page": "p2",
+      "kind": "text",
+      "tag": "p",
+      "label": "Colores, imágenes y una estructura que representen a tu negocio.",
+      "section": "Todo empieza con lo que quieres comunicar.",
+      "value": "Colores, imágenes y una estructura que representen a tu negocio.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p2-text-7",
+      "page": "p2",
+      "kind": "text",
+      "tag": "h3",
+      "label": "Móvil y computadora",
+      "section": "Todo empieza con lo que quieres comunicar.",
+      "value": "Móvil y computadora",
+      "maxLength": 180
+    },
+    {
+      "id": "p2-text-8",
+      "page": "p2",
+      "kind": "text",
+      "tag": "p",
+      "label": "Una experiencia adaptable para navegar con comodidad en distintas pantal",
+      "section": "Todo empieza con lo que quieres comunicar.",
+      "value": "Una experiencia adaptable para navegar con comodidad en distintas pantallas.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p2-text-9",
+      "page": "p2",
+      "kind": "text",
+      "tag": "h3",
+      "label": "Catálogos de productos o servicios",
+      "section": "Todo empieza con lo que quieres comunicar.",
+      "value": "Catálogos de productos o servicios",
+      "maxLength": 180
+    },
+    {
+      "id": "p2-text-10",
+      "page": "p2",
+      "kind": "text",
+      "tag": "p",
+      "label": "Imágenes, descripciones y una organización pensada para tus clientes.",
+      "section": "Todo empieza con lo que quieres comunicar.",
+      "value": "Imágenes, descripciones y una organización pensada para tus clientes.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p2-text-11",
+      "page": "p2",
+      "kind": "text",
+      "tag": "h3",
+      "label": "Contacto por WhatsApp",
+      "section": "Todo empieza con lo que quieres comunicar.",
+      "value": "Contacto por WhatsApp",
+      "maxLength": 180
+    },
+    {
+      "id": "p2-text-12",
+      "page": "p2",
+      "kind": "text",
+      "tag": "p",
+      "label": "Facilita la conversación con botones y mensajes orientados a tu servicio",
+      "section": "Todo empieza con lo que quieres comunicar.",
+      "value": "Facilita la conversación con botones y mensajes orientados a tu servicio.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p2-text-13",
+      "page": "p2",
+      "kind": "text",
+      "tag": "h3",
+      "label": "Formularios según tu proyecto",
+      "section": "Todo empieza con lo que quieres comunicar.",
+      "value": "Formularios según tu proyecto",
+      "maxLength": 180
+    },
+    {
+      "id": "p2-text-14",
+      "page": "p2",
+      "kind": "text",
+      "tag": "p",
+      "label": "Definimos los campos, su destino y el tratamiento de la información.",
+      "section": "Todo empieza con lo que quieres comunicar.",
+      "value": "Definimos los campos, su destino y el tratamiento de la información.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p2-text-15",
+      "page": "p2",
+      "kind": "text",
+      "tag": "h3",
+      "label": "SEO básico y estructura clara",
+      "section": "Todo empieza con lo que quieres comunicar.",
+      "value": "SEO básico y estructura clara",
+      "maxLength": 180
+    },
+    {
+      "id": "p2-text-16",
+      "page": "p2",
+      "kind": "text",
+      "tag": "p",
+      "label": "Títulos, descripciones y una base que ayude a comprender tus páginas.",
+      "section": "Todo empieza con lo que quieres comunicar.",
+      "value": "Títulos, descripciones y una base que ayude a comprender tus páginas.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p2-text-18",
+      "page": "p2",
+      "kind": "text",
+      "tag": "h2",
+      "label": "Tu negocio tiene mucho que mostrar.",
+      "section": "Todo empieza con lo que quieres comunicar.",
+      "value": "Tu negocio tiene mucho que mostrar.",
+      "maxLength": 180
+    },
+    {
+      "id": "p2-text-19",
+      "page": "p2",
+      "kind": "text",
+      "tag": "p",
+      "label": "Diseño, imágenes y contenido que acompañan tu propuesta y ayudan a que t",
+      "section": "Tu negocio tiene mucho que mostrar.",
+      "value": "Diseño, imágenes y contenido que acompañan tu propuesta y ayudan a que te conozcan.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p2-text-21",
+      "page": "p2",
+      "kind": "text",
+      "tag": "h2",
+      "label": "Cada negocio tiene su propia historia.",
+      "section": "Tu negocio tiene mucho que mostrar.",
+      "value": "Cada negocio tiene su propia historia.",
+      "maxLength": 180
+    },
+    {
+      "id": "p2-text-22",
+      "page": "p2",
+      "kind": "text",
+      "tag": "h3",
+      "label": "Servicios profesionales",
+      "section": "Cada negocio tiene su propia historia.",
+      "value": "Servicios profesionales",
+      "maxLength": 180
+    },
+    {
+      "id": "p2-text-23",
+      "page": "p2",
+      "kind": "text",
+      "tag": "p",
+      "label": "Explica tu propuesta y facilita que te contacten.",
+      "section": "Cada negocio tiene su propia historia.",
+      "value": "Explica tu propuesta y facilita que te contacten.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p2-text-24",
+      "page": "p2",
+      "kind": "text",
+      "tag": "h3",
+      "label": "Comercios y catálogos",
+      "section": "Cada negocio tiene su propia historia.",
+      "value": "Comercios y catálogos",
+      "maxLength": 180
+    },
+    {
+      "id": "p2-text-25",
+      "page": "p2",
+      "kind": "text",
+      "tag": "p",
+      "label": "Presenta tus productos y abre nuevas conversaciones.",
+      "section": "Cada negocio tiene su propia historia.",
+      "value": "Presenta tus productos y abre nuevas conversaciones.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p2-text-26",
+      "page": "p2",
+      "kind": "text",
+      "tag": "h3",
+      "label": "Restaurantes y experiencias",
+      "section": "Cada negocio tiene su propia historia.",
+      "value": "Restaurantes y experiencias",
+      "maxLength": 180
+    },
+    {
+      "id": "p2-text-27",
+      "page": "p2",
+      "kind": "text",
+      "tag": "p",
+      "label": "Muestra lo que te hace especial con imágenes y contenido propio.",
+      "section": "Cada negocio tiene su propia historia.",
+      "value": "Muestra lo que te hace especial con imágenes y contenido propio.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p2-text-28",
+      "page": "p2",
+      "kind": "text",
+      "tag": "h3",
+      "label": "Tu próximo proyecto",
+      "section": "Cada negocio tiene su propia historia.",
+      "value": "Tu próximo proyecto",
+      "maxLength": 180
+    },
+    {
+      "id": "p2-text-29",
+      "page": "p2",
+      "kind": "text",
+      "tag": "p",
+      "label": "Turismo, emprendimientos y más: cuéntanos tu idea.",
+      "section": "Cada negocio tiene su propia historia.",
+      "value": "Turismo, emprendimientos y más: cuéntanos tu idea.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p2-text-30",
+      "page": "p2",
+      "kind": "text",
+      "tag": "h2",
+      "label": "De una buena idea a una solución para ti.",
+      "section": "Cada negocio tiene su propia historia.",
+      "value": "De una buena idea a una solución para ti.",
+      "maxLength": 180
+    },
+    {
+      "id": "p2-text-31",
+      "page": "p2",
+      "kind": "text",
+      "tag": "p",
+      "label": "Una conversación clara, una propuesta a tu medida y un trabajo que revis",
+      "section": "De una buena idea a una solución para ti.",
+      "value": "Una conversación clara, una propuesta a tu medida y un trabajo que revisamos contigo.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p2-text-32",
+      "page": "p2",
+      "kind": "text",
+      "tag": "h3",
+      "label": "Cuéntanos tu proceso",
+      "section": "De una buena idea a una solución para ti.",
+      "value": "Cuéntanos tu proceso",
+      "maxLength": 180
+    },
+    {
+      "id": "p2-text-33",
+      "page": "p2",
+      "kind": "text",
+      "tag": "p",
+      "label": "¿Qué haces hoy y qué te gustaría mejorar? Revisamos tu objetivo y los ma",
+      "section": "De una buena idea a una solución para ti.",
+      "value": "¿Qué haces hoy y qué te gustaría mejorar? Revisamos tu objetivo y los materiales de ejemplo.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p2-text-34",
+      "page": "p2",
+      "kind": "text",
+      "tag": "h3",
+      "label": "Definimos lo que necesitas",
+      "section": "De una buena idea a una solución para ti.",
+      "value": "Definimos lo que necesitas",
+      "maxLength": 180
+    },
+    {
+      "id": "p2-text-35",
+      "page": "p2",
+      "kind": "text",
+      "tag": "p",
+      "label": "Acordamos las funciones, el diseño, los plazos y las condiciones de tu p",
+      "section": "De una buena idea a una solución para ti.",
+      "value": "Acordamos las funciones, el diseño, los plazos y las condiciones de tu propuesta.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p2-text-36",
+      "page": "p2",
+      "kind": "text",
+      "tag": "h3",
+      "label": "Construimos y revisamos contigo",
+      "section": "De una buena idea a una solución para ti.",
+      "value": "Construimos y revisamos contigo",
+      "maxLength": 180
+    },
+    {
+      "id": "p2-text-37",
+      "page": "p2",
+      "kind": "text",
+      "tag": "p",
+      "label": "Desarrollamos, probamos y coordinamos la entrega según el alcance acorda",
+      "section": "De una buena idea a una solución para ti.",
+      "value": "Desarrollamos, probamos y coordinamos la entrega según el alcance acordado.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p2-text-38",
+      "page": "p2",
+      "kind": "text",
+      "tag": "h2",
+      "label": "Tu siguiente paso empieza aquí.",
+      "section": "De una buena idea a una solución para ti.",
+      "value": "Tu siguiente paso empieza aquí.",
+      "maxLength": 180
+    },
+    {
+      "id": "p2-text-39",
+      "page": "p2",
+      "kind": "text",
+      "tag": "p",
+      "label": "Te escuchamos antes de proponerte una solución.",
+      "section": "Tu siguiente paso empieza aquí.",
+      "value": "Te escuchamos antes de proponerte una solución.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p2-text-40",
+      "page": "p2",
+      "kind": "text",
+      "tag": "h2",
+      "label": "Antes de comenzar.",
+      "section": "Tu siguiente paso empieza aquí.",
+      "value": "Antes de comenzar.",
+      "maxLength": 180
+    },
+    {
+      "id": "p2-text-41",
+      "page": "p2",
+      "kind": "text",
+      "tag": "summary",
+      "label": "¿Pueden usar mi logo, fotos y colores?",
+      "section": "Antes de comenzar.",
+      "value": "¿Pueden usar mi logo, fotos y colores?",
+      "maxLength": 1600
+    },
+    {
+      "id": "p2-text-42",
+      "page": "p2",
+      "kind": "text",
+      "tag": "p",
+      "label": "Sí. Podemos trabajar con los materiales que proporciones y que tengas au",
+      "section": "Antes de comenzar.",
+      "value": "Sí. Podemos trabajar con los materiales que proporciones y que tengas autorización para utilizar. Revisamos contigo cómo integrarlos al diseño.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p2-text-43",
+      "page": "p2",
+      "kind": "text",
+      "tag": "summary",
+      "label": "¿La web se verá bien en celular?",
+      "section": "Antes de comenzar.",
+      "value": "¿La web se verá bien en celular?",
+      "maxLength": 1600
+    },
+    {
+      "id": "p2-text-44",
+      "page": "p2",
+      "kind": "text",
+      "tag": "p",
+      "label": "El diseño contempla pantallas móviles y de computadora. Probamos la nave",
+      "section": "Antes de comenzar.",
+      "value": "El diseño contempla pantallas móviles y de computadora. Probamos la navegación y la adaptación del contenido antes de coordinar su publicación.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p2-text-45",
+      "page": "p2",
+      "kind": "text",
+      "tag": "summary",
+      "label": "¿Incluye dominio y alojamiento?",
+      "section": "Antes de comenzar.",
+      "value": "¿Incluye dominio y alojamiento?",
+      "maxLength": 1600
+    },
+    {
+      "id": "p2-text-46",
+      "page": "p2",
+      "kind": "text",
+      "tag": "p",
+      "label": "Se define en tu propuesta. Te indicamos los servicios que requiere el pr",
+      "section": "Antes de comenzar.",
+      "value": "Se define en tu propuesta. Te indicamos los servicios que requiere el proyecto, quién los administra y las condiciones o renovaciones que correspondan.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p2-text-47",
+      "page": "p2",
+      "kind": "text",
+      "tag": "summary",
+      "label": "¿Puedo pedir un catálogo o un panel de edición?",
+      "section": "Antes de comenzar.",
+      "value": "¿Puedo pedir un catálogo o un panel de edición?",
+      "maxLength": 1600
+    },
+    {
+      "id": "p2-text-48",
+      "page": "p2",
+      "kind": "text",
+      "tag": "p",
+      "label": "Sí. Evaluamos catálogos, paneles, formularios e integraciones y los deta",
+      "section": "Antes de comenzar.",
+      "value": "Sí. Evaluamos catálogos, paneles, formularios e integraciones y los detallamos expresamente en el alcance de tu proyecto.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p2-text-49",
+      "page": "p2",
+      "kind": "text",
+      "tag": "h2",
+      "label": "Cuéntanos tu idea. Démosle forma juntos.",
+      "section": "Antes de comenzar.",
+      "value": "Cuéntanos tu idea. Démosle forma juntos.",
+      "maxLength": 180
+    },
+    {
+      "id": "p2-text-50",
+      "page": "p2",
+      "kind": "text",
+      "tag": "p",
+      "label": "Tú nos cuentas lo que necesitas; nosotros le damos forma a una solución ",
+      "section": "Cuéntanos tu idea. Démosle forma juntos.",
+      "value": "Tú nos cuentas lo que necesitas; nosotros le damos forma a una solución para tu negocio.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p2-image-0",
+      "page": "p2",
+      "kind": "image",
+      "label": "Imagen decorativa 1",
+      "value": {
+        "src": "/web-editorial-900.webp",
+        "alt": "",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p2-image-1",
+      "page": "p2",
+      "kind": "image",
+      "label": "Imagen decorativa 2",
+      "value": {
+        "src": "/web-movil-portada-900.webp",
+        "alt": "",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p2-image-2",
+      "page": "p2",
+      "kind": "image",
+      "label": "Material de Sinteria para desarrollo web: laptop, celular y fotografías de distintos negocios",
+      "value": {
+        "src": "/web-900.webp",
+        "alt": "Material de Sinteria para desarrollo web: laptop, celular y fotografías de distintos negocios",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p2-image-3",
+      "page": "p2",
+      "kind": "image",
+      "label": "Escena conceptual: selección de colores y tipografías para una marca",
+      "value": {
+        "src": "/web-identidad-900.webp",
+        "alt": "Escena conceptual: selección de colores y tipografías para una marca",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p2-image-4",
+      "page": "p2",
+      "kind": "image",
+      "label": "Escena conceptual: diseño web adaptado a dos pantallas",
+      "value": {
+        "src": "/web-responsive-900.webp",
+        "alt": "Escena conceptual: diseño web adaptado a dos pantallas",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p2-image-5",
+      "page": "p2",
+      "kind": "image",
+      "label": "Escena conceptual: productos artesanales preparados para un catálogo",
+      "value": {
+        "src": "/web-catalogo-900.webp",
+        "alt": "Escena conceptual: productos artesanales preparados para un catálogo",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p2-image-6",
+      "page": "p2",
+      "kind": "image",
+      "label": "Escena conceptual: una persona consulta mensajes de su negocio",
+      "value": {
+        "src": "/web-mensajes-900.webp",
+        "alt": "Escena conceptual: una persona consulta mensajes de su negocio",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p2-image-7",
+      "page": "p2",
+      "kind": "image",
+      "label": "Escena conceptual: formulario de contacto ilustrativo en una tablet",
+      "value": {
+        "src": "/web-formulario-900.webp",
+        "alt": "Escena conceptual: formulario de contacto ilustrativo en una tablet",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p2-image-8",
+      "page": "p2",
+      "kind": "image",
+      "label": "Escena conceptual: organización visual del contenido de una web",
+      "value": {
+        "src": "/web-busqueda-900.webp",
+        "alt": "Escena conceptual: organización visual del contenido de una web",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p2-image-9",
+      "page": "p2",
+      "kind": "image",
+      "label": "Ilustración conceptual: laptop y celular con diseños web de restaurante y artesanía en un estudio azul",
+      "value": {
+        "src": "/web-estudio-900.webp",
+        "alt": "Ilustración conceptual: laptop y celular con diseños web de restaurante y artesanía en un estudio azul",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p2-image-10",
+      "page": "p2",
+      "kind": "image",
+      "label": "Composición conceptual: guía de estilo para un negocio",
+      "value": {
+        "src": "/web-brandbook-900.webp",
+        "alt": "Composición conceptual: guía de estilo para un negocio",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p2-image-11",
+      "page": "p2",
+      "kind": "image",
+      "label": "Escena conceptual: estudio de un profesional independiente",
+      "value": {
+        "src": "/web-servicios-900.webp",
+        "alt": "Escena conceptual: estudio de un profesional independiente",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p2-image-12",
+      "page": "p2",
+      "kind": "image",
+      "label": "Escena conceptual: exposición cuidada de productos de una tienda",
+      "value": {
+        "src": "/web-comercio-900.webp",
+        "alt": "Escena conceptual: exposición cuidada de productos de una tienda",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p2-image-13",
+      "page": "p2",
+      "kind": "image",
+      "label": "Escena conceptual: mesa y plato de un restaurante peruano",
+      "value": {
+        "src": "/web-restaurante-900.webp",
+        "alt": "Escena conceptual: mesa y plato de un restaurante peruano",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p2-image-14",
+      "page": "p2",
+      "kind": "image",
+      "label": "Escena conceptual: paisaje andino para un proyecto de turismo",
+      "value": {
+        "src": "/web-turismo-900.webp",
+        "alt": "Escena conceptual: paisaje andino para un proyecto de turismo",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p2-image-15",
+      "page": "p2",
+      "kind": "image",
+      "label": "Escena conceptual: mapa de ideas para el contenido de una web",
+      "value": {
+        "src": "/web-brief-900.webp",
+        "alt": "Escena conceptual: mapa de ideas para el contenido de una web",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p2-image-16",
+      "page": "p2",
+      "kind": "image",
+      "label": "Escena conceptual: prototipos de páginas web dibujados en papel",
+      "value": {
+        "src": "/web-prototipo-900.webp",
+        "alt": "Escena conceptual: prototipos de páginas web dibujados en papel",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p2-image-17",
+      "page": "p2",
+      "kind": "image",
+      "label": "Escena conceptual: prueba de una web en una computadora portátil",
+      "value": {
+        "src": "/web-validacion-900.webp",
+        "alt": "Escena conceptual: prueba de una web en una computadora portátil",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p2-image-18",
+      "page": "p2",
+      "kind": "image",
+      "label": "Escena conceptual: conversación sobre contenido y fotografías",
+      "value": {
+        "src": "/web-orientacion-900.webp",
+        "alt": "Escena conceptual: conversación sobre contenido y fotografías",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p2-image-19",
+      "page": "p2",
+      "kind": "image",
+      "label": "Escena conceptual: cámara y materiales preparados para presentar un negocio",
+      "value": {
+        "src": "/web-contacto-900.webp",
+        "alt": "Escena conceptual: cámara y materiales preparados para presentar un negocio",
+        "mediaId": null
+      },
+      "maxLength": 200
+    },
+    {
+      "id": "p3-text-0",
+      "page": "p3",
+      "kind": "text",
+      "tag": "h1",
+      "label": "Sistema de inventarios en Google Sheets.",
+      "section": "Portada",
+      "value": "Sistema de inventarios en Google Sheets.",
+      "maxLength": 180
+    },
+    {
+      "id": "p3-text-1",
+      "page": "p3",
+      "kind": "text",
+      "tag": "p",
+      "label": "Organiza los productos y movimientos de tu negocio con un sistema de inv",
+      "section": "Portada",
+      "value": "Organiza los productos y movimientos de tu negocio con un sistema de inventarios personalizado. En Sinteria conectamos Google Sheets y Apps Script para adaptar el registro de entradas, salidas y existencias a tu forma de trabajar en Perú.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p3-text-3",
+      "page": "p3",
+      "kind": "text",
+      "tag": "h2",
+      "label": "De varios registros sueltos a un inventario que puedes consultar.",
+      "section": "Portada",
+      "value": "De varios registros sueltos a un inventario que puedes consultar.",
+      "maxLength": 180
+    },
+    {
+      "id": "p3-text-4",
+      "page": "p3",
+      "kind": "text",
+      "tag": "p",
+      "label": "Si registras tus compras en una hoja y tus salidas en otra, revisar el s",
+      "section": "De varios registros sueltos a un inventario que puedes consultar.",
+      "value": "Si registras tus compras en una hoja y tus salidas en otra, revisar el stock puede convertirse en una tarea diaria de copiar y comparar. Un sistema con un catálogo común permite relacionar cada movimiento con el producto correcto.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p3-text-5",
+      "page": "p3",
+      "kind": "text",
+      "tag": "p",
+      "label": "Primero revisamos cómo identificas tus artículos, qué unidades utilizas ",
+      "section": "De varios registros sueltos a un inventario que puedes consultar.",
+      "value": "Primero revisamos cómo identificas tus artículos, qué unidades utilizas y quién registra los movimientos. Con esa información definimos una estructura que tu equipo pueda mantener y reportes que respondan a preguntas concretas: qué ingresó, qué salió y qué queda.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p3-text-6",
+      "page": "p3",
+      "kind": "text",
+      "tag": "h3",
+      "label": "Catálogo de productos",
+      "section": "De varios registros sueltos a un inventario que puedes consultar.",
+      "value": "Catálogo de productos",
+      "maxLength": 180
+    },
+    {
+      "id": "p3-text-7",
+      "page": "p3",
+      "kind": "text",
+      "tag": "p",
+      "label": "Códigos, descripciones, unidades y categorías para identificar cada artí",
+      "section": "De varios registros sueltos a un inventario que puedes consultar.",
+      "value": "Códigos, descripciones, unidades y categorías para identificar cada artículo. Revisamos los datos existentes antes de proponer una importación.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p3-text-8",
+      "page": "p3",
+      "kind": "text",
+      "tag": "h3",
+      "label": "Entradas y salidas",
+      "section": "De varios registros sueltos a un inventario que puedes consultar.",
+      "value": "Entradas y salidas",
+      "maxLength": 180
+    },
+    {
+      "id": "p3-text-9",
+      "page": "p3",
+      "kind": "text",
+      "tag": "p",
+      "label": "Registros de ingresos, consumos, despachos y ajustes, con los campos y r",
+      "section": "De varios registros sueltos a un inventario que puedes consultar.",
+      "value": "Registros de ingresos, consumos, despachos y ajustes, con los campos y responsables que acordemos para tu operación.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p3-text-10",
+      "page": "p3",
+      "kind": "text",
+      "tag": "h3",
+      "label": "Stock y ubicaciones",
+      "section": "De varios registros sueltos a un inventario que puedes consultar.",
+      "value": "Stock y ubicaciones",
+      "maxLength": 180
+    },
+    {
+      "id": "p3-text-11",
+      "page": "p3",
+      "kind": "text",
+      "tag": "p",
+      "label": "Consulta de existencias y organización por almacén o ubicación. Los nive",
+      "section": "De varios registros sueltos a un inventario que puedes consultar.",
+      "value": "Consulta de existencias y organización por almacén o ubicación. Los niveles mínimos y avisos se pueden incorporar al alcance del proyecto.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p3-text-12",
+      "page": "p3",
+      "kind": "text",
+      "tag": "h3",
+      "label": "Historial y reportes",
+      "section": "De varios registros sueltos a un inventario que puedes consultar.",
+      "value": "Historial y reportes",
+      "maxLength": 180
+    },
+    {
+      "id": "p3-text-13",
+      "page": "p3",
+      "kind": "text",
+      "tag": "p",
+      "label": "Búsquedas de movimientos por producto, fecha o responsable y resúmenes p",
+      "section": "De varios registros sueltos a un inventario que puedes consultar.",
+      "value": "Búsquedas de movimientos por producto, fecha o responsable y resúmenes para revisar el comportamiento de tu inventario.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p3-text-15",
+      "page": "p3",
+      "kind": "text",
+      "tag": "h2",
+      "label": "Ejemplo: una tienda que necesita conocer sus existencias.",
+      "section": "De varios registros sueltos a un inventario que puedes consultar.",
+      "value": "Ejemplo: una tienda que necesita conocer sus existencias.",
+      "maxLength": 180
+    },
+    {
+      "id": "p3-text-16",
+      "page": "p3",
+      "kind": "text",
+      "tag": "p",
+      "label": "Un producto se identifica con un código y una unidad de medida. El ingre",
+      "section": "Ejemplo: una tienda que necesita conocer sus existencias.",
+      "value": "Un producto se identifica con un código y una unidad de medida. El ingreso de una compra y el registro de una salida alimentan su historial. El equipo consulta el saldo disponible desde una vista común, sin volver a sumar varios archivos. Es un ejemplo de flujo; las pantallas y reglas se definen para tu negocio.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p3-text-17",
+      "page": "p3",
+      "kind": "text",
+      "tag": "h2",
+      "label": "Qué revisamos antes de construir tu sistema.",
+      "section": "Ejemplo: una tienda que necesita conocer sus existencias.",
+      "value": "Qué revisamos antes de construir tu sistema.",
+      "maxLength": 180
+    },
+    {
+      "id": "p3-text-18",
+      "page": "p3",
+      "kind": "text",
+      "tag": "p",
+      "label": "Cantidad de productos, movimientos diarios, personas que registran infor",
+      "section": "Qué revisamos antes de construir tu sistema.",
+      "value": "Cantidad de productos, movimientos diarios, personas que registran información, almacenes y calidad de los datos iniciales. También revisamos si necesitas lotes, vencimientos, lectores o etiquetas QR. Esos módulos se evalúan en la cotización para elegir una solución adecuada al volumen de trabajo.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p3-text-19",
+      "page": "p3",
+      "kind": "text",
+      "tag": "h2",
+      "label": "Qué puedes preparar para tu cotización.",
+      "section": "Qué revisamos antes de construir tu sistema.",
+      "value": "Qué puedes preparar para tu cotización.",
+      "maxLength": 180
+    },
+    {
+      "id": "p3-text-20",
+      "page": "p3",
+      "kind": "text",
+      "tag": "p",
+      "label": "Trabajamos con una propuesta a tu medida. Estos ejemplos nos ayudan a en",
+      "section": "Qué puedes preparar para tu cotización.",
+      "value": "Trabajamos con una propuesta a tu medida. Estos ejemplos nos ayudan a entender el alcance antes de desarrollar.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p3-text-21",
+      "page": "p3",
+      "kind": "text",
+      "tag": "p",
+      "label": "Un pequeño catálogo con datos de ejemplo y tus unidades de medida.",
+      "section": "Qué puedes preparar para tu cotización.",
+      "value": "Un pequeño catálogo con datos de ejemplo y tus unidades de medida.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p3-text-22",
+      "page": "p3",
+      "kind": "text",
+      "tag": "p",
+      "label": "Un ejemplo de entrada, salida y reporte que hoy utilizas.",
+      "section": "Qué puedes preparar para tu cotización.",
+      "value": "Un ejemplo de entrada, salida y reporte que hoy utilizas.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p3-text-23",
+      "page": "p3",
+      "kind": "text",
+      "tag": "p",
+      "label": "La cantidad aproximada de usuarios, ubicaciones y movimientos.",
+      "section": "Qué puedes preparar para tu cotización.",
+      "value": "La cantidad aproximada de usuarios, ubicaciones y movimientos.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p3-text-24",
+      "page": "p3",
+      "kind": "text",
+      "tag": "h2",
+      "label": "Lo que necesitas saber antes de comenzar.",
+      "section": "Qué puedes preparar para tu cotización.",
+      "value": "Lo que necesitas saber antes de comenzar.",
+      "maxLength": 180
+    },
+    {
+      "id": "p3-text-25",
+      "page": "p3",
+      "kind": "text",
+      "tag": "p",
+      "label": "Conversemos sobre tus datos, tu equipo y el resultado que esperas.",
+      "section": "Lo que necesitas saber antes de comenzar.",
+      "value": "Conversemos sobre tus datos, tu equipo y el resultado que esperas.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p3-text-26",
+      "page": "p3",
+      "kind": "text",
+      "tag": "summary",
+      "label": "¿Pueden adaptar el archivo de inventarios que ya uso?",
+      "section": "Lo que necesitas saber antes de comenzar.",
+      "value": "¿Pueden adaptar el archivo de inventarios que ya uso?",
+      "maxLength": 1600
+    },
+    {
+      "id": "p3-text-27",
+      "page": "p3",
+      "kind": "text",
+      "tag": "p",
+      "label": "Sí, podemos revisar su estructura y evaluar qué datos conviene conservar",
+      "section": "Lo que necesitas saber antes de comenzar.",
+      "value": "Sí, podemos revisar su estructura y evaluar qué datos conviene conservar, limpiar o reorganizar. Para la primera consulta puedes compartir un ejemplo sin información confidencial.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p3-text-28",
+      "page": "p3",
+      "kind": "text",
+      "tag": "summary",
+      "label": "¿Puede incluir varios almacenes o códigos QR?",
+      "section": "Lo que necesitas saber antes de comenzar.",
+      "value": "¿Puede incluir varios almacenes o códigos QR?",
+      "maxLength": 1600
+    },
+    {
+      "id": "p3-text-29",
+      "page": "p3",
+      "kind": "text",
+      "tag": "p",
+      "label": "Podemos evaluar almacenes, ubicaciones, lotes y etiquetas QR. Las funcio",
+      "section": "Lo que necesitas saber antes de comenzar.",
+      "value": "Podemos evaluar almacenes, ubicaciones, lotes y etiquetas QR. Las funciones incluidas y su forma de uso se detallan en tu propuesta.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p3-text-30",
+      "page": "p3",
+      "kind": "text",
+      "tag": "summary",
+      "label": "¿Se puede conectar con compras y ventas?",
+      "section": "Lo que necesitas saber antes de comenzar.",
+      "value": "¿Se puede conectar con compras y ventas?",
+      "maxLength": 1600
+    },
+    {
+      "id": "p3-text-31",
+      "page": "p3",
+      "kind": "text",
+      "tag": "p",
+      "label": "Sí, se puede plantear una relación entre compras, ventas e inventarios. ",
+      "section": "Lo que necesitas saber antes de comenzar.",
+      "value": "Sí, se puede plantear una relación entre compras, ventas e inventarios. Antes definimos cuándo un documento debe generar un movimiento y cómo se corrigen los registros.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p3-text-32",
+      "page": "p3",
+      "kind": "text",
+      "tag": "summary",
+      "label": "¿Cuánto cuesta el desarrollo?",
+      "section": "Lo que necesitas saber antes de comenzar.",
+      "value": "¿Cuánto cuesta el desarrollo?",
+      "maxLength": 1600
+    },
+    {
+      "id": "p3-text-33",
+      "page": "p3",
+      "kind": "text",
+      "tag": "p",
+      "label": "La cotización depende de los módulos, usuarios, datos iniciales e integr",
+      "section": "Lo que necesitas saber antes de comenzar.",
+      "value": "La cotización depende de los módulos, usuarios, datos iniciales e integraciones. Escríbenos por WhatsApp al +51 932 280 554 para revisar tu proceso y cotizar sin costo.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p3-text-34",
+      "page": "p3",
+      "kind": "text",
+      "tag": "h2",
+      "label": "Cuéntanos cómo trabajas hoy.",
+      "section": "Lo que necesitas saber antes de comenzar.",
+      "value": "Cuéntanos cómo trabajas hoy.",
+      "maxLength": 180
+    },
+    {
+      "id": "p3-text-35",
+      "page": "p3",
+      "kind": "text",
+      "tag": "p",
+      "label": "Escríbenos al +51 932 280 554 o a contacto.sinteria@gmail.com . Revisamo",
+      "section": "Cuéntanos cómo trabajas hoy.",
+      "value": "Escríbenos al +51 932 280 554 o a contacto.sinteria@gmail.com . Revisamos tu idea y preparamos una cotización gratuita para tu negocio.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p4-text-0",
+      "page": "p4",
+      "kind": "text",
+      "tag": "h1",
+      "label": "Automatización con Google Sheets y Apps Script.",
+      "section": "Portada",
+      "value": "Automatización con Google Sheets y Apps Script.",
+      "maxLength": 180
+    },
+    {
+      "id": "p4-text-1",
+      "page": "p4",
+      "kind": "text",
+      "tag": "p",
+      "label": "Conecta tus hojas de cálculo, registros y reportes en un flujo de trabaj",
+      "section": "Portada",
+      "value": "Conecta tus hojas de cálculo, registros y reportes en un flujo de trabajo más claro. Desarrollamos automatizaciones con Google Sheets y Google Apps Script para negocios en Perú que necesitan reducir tareas manuales y organizar sus procesos.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p4-text-3",
+      "page": "p4",
+      "kind": "text",
+      "tag": "h2",
+      "label": "Cuando copiar, calcular y enviar se vuelve una rutina.",
+      "section": "Portada",
+      "value": "Cuando copiar, calcular y enviar se vuelve una rutina.",
+      "maxLength": 180
+    },
+    {
+      "id": "p4-text-4",
+      "page": "p4",
+      "kind": "text",
+      "tag": "p",
+      "label": "¿Tu equipo copia la misma información en varios archivos o prepara siemp",
+      "section": "Cuando copiar, calcular y enviar se vuelve una rutina.",
+      "value": "¿Tu equipo copia la misma información en varios archivos o prepara siempre el mismo reporte? Antes de programar, identificamos el origen de los datos, las decisiones que toma una persona y el resultado que necesita el negocio.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p4-text-5",
+      "page": "p4",
+      "kind": "text",
+      "tag": "p",
+      "label": "Una automatización puede tomar un registro, validar campos y preparar un",
+      "section": "Cuando copiar, calcular y enviar se vuelve una rutina.",
+      "value": "Una automatización puede tomar un registro, validar campos y preparar una salida con una estructura acordada. El objetivo es conservar un proceso comprensible: saber qué ocurrió, revisar los casos que necesitan intervención y evitar que las tareas dependan de recordar muchos pasos.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p4-text-6",
+      "page": "p4",
+      "kind": "text",
+      "tag": "h3",
+      "label": "Captura y validación",
+      "section": "Cuando copiar, calcular y enviar se vuelve una rutina.",
+      "value": "Captura y validación",
+      "maxLength": 180
+    },
+    {
+      "id": "p4-text-7",
+      "page": "p4",
+      "kind": "text",
+      "tag": "p",
+      "label": "Formularios o interfaces para registrar información y revisar campos nec",
+      "section": "Cuando copiar, calcular y enviar se vuelve una rutina.",
+      "value": "Formularios o interfaces para registrar información y revisar campos necesarios antes de incorporarla al flujo de trabajo.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p4-text-8",
+      "page": "p4",
+      "kind": "text",
+      "tag": "h3",
+      "label": "Documentos y reportes",
+      "section": "Cuando copiar, calcular y enviar se vuelve una rutina.",
+      "value": "Documentos y reportes",
+      "maxLength": 180
+    },
+    {
+      "id": "p4-text-9",
+      "page": "p4",
+      "kind": "text",
+      "tag": "p",
+      "label": "Preparación de resúmenes, formatos y documentos a partir de los registro",
+      "section": "Cuando copiar, calcular y enviar se vuelve una rutina.",
+      "value": "Preparación de resúmenes, formatos y documentos a partir de los registros. Definimos los campos, el diseño y el destino de cada salida.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p4-text-10",
+      "page": "p4",
+      "kind": "text",
+      "tag": "h3",
+      "label": "Avisos y seguimiento",
+      "section": "Cuando copiar, calcular y enviar se vuelve una rutina.",
+      "value": "Avisos y seguimiento",
+      "maxLength": 180
+    },
+    {
+      "id": "p4-text-11",
+      "page": "p4",
+      "kind": "text",
+      "tag": "p",
+      "label": "Evaluamos notificaciones por correo y tareas programadas para los evento",
+      "section": "Cuando copiar, calcular y enviar se vuelve una rutina.",
+      "value": "Evaluamos notificaciones por correo y tareas programadas para los eventos que tu equipo necesita atender, según los permisos y límites de la plataforma.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p4-text-12",
+      "page": "p4",
+      "kind": "text",
+      "tag": "h3",
+      "label": "Conexión entre procesos",
+      "section": "Cuando copiar, calcular y enviar se vuelve una rutina.",
+      "value": "Conexión entre procesos",
+      "maxLength": 180
+    },
+    {
+      "id": "p4-text-13",
+      "page": "p4",
+      "kind": "text",
+      "tag": "p",
+      "label": "Relación de información entre hojas, módulos o servicios compatibles. La",
+      "section": "Cuando copiar, calcular y enviar se vuelve una rutina.",
+      "value": "Relación de información entre hojas, módulos o servicios compatibles. Las integraciones y autorizaciones se revisan antes de implementarlas.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p4-text-15",
+      "page": "p4",
+      "kind": "text",
+      "tag": "h2",
+      "label": "Ejemplo: de una solicitud a un reporte de pendientes.",
+      "section": "Cuando copiar, calcular y enviar se vuelve una rutina.",
+      "value": "Ejemplo: de una solicitud a un reporte de pendientes.",
+      "maxLength": 180
+    },
+    {
+      "id": "p4-text-16",
+      "page": "p4",
+      "kind": "text",
+      "tag": "p",
+      "label": "Una persona registra una solicitud. El sistema revisa los datos requerid",
+      "section": "Ejemplo: de una solicitud a un reporte de pendientes.",
+      "value": "Una persona registra una solicitud. El sistema revisa los datos requeridos y asigna un estado. El responsable consulta los pendientes y, si se incluye en el proyecto, recibe un aviso por correo. Un reporte reúne las solicitudes por fecha o estado. Las decisiones que requieren autorización siguen bajo el control de las personas que definas.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p4-text-17",
+      "page": "p4",
+      "kind": "text",
+      "tag": "h2",
+      "label": "Elegimos la herramienta según el proceso y el volumen.",
+      "section": "Ejemplo: de una solicitud a un reporte de pendientes.",
+      "value": "Elegimos la herramienta según el proceso y el volumen.",
+      "maxLength": 180
+    },
+    {
+      "id": "p4-text-18",
+      "page": "p4",
+      "kind": "text",
+      "tag": "p",
+      "label": "Google Sheets puede ser una base útil para procesos que ya se gestionan ",
+      "section": "Elegimos la herramienta según el proceso y el volumen.",
+      "value": "Google Sheets puede ser una base útil para procesos que ya se gestionan con hojas de cálculo. Revisamos el volumen de datos, la frecuencia de las tareas y las personas que trabajan al mismo tiempo. Apps Script tiene límites de ejecución y cuotas; si tu operación requiere otra arquitectura, lo planteamos en la propuesta.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p4-text-19",
+      "page": "p4",
+      "kind": "text",
+      "tag": "h2",
+      "label": "Qué puedes preparar para tu cotización.",
+      "section": "Elegimos la herramienta según el proceso y el volumen.",
+      "value": "Qué puedes preparar para tu cotización.",
+      "maxLength": 180
+    },
+    {
+      "id": "p4-text-20",
+      "page": "p4",
+      "kind": "text",
+      "tag": "p",
+      "label": "Trabajamos con una propuesta a tu medida. Estos ejemplos nos ayudan a en",
+      "section": "Qué puedes preparar para tu cotización.",
+      "value": "Trabajamos con una propuesta a tu medida. Estos ejemplos nos ayudan a entender el alcance antes de desarrollar.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p4-text-21",
+      "page": "p4",
+      "kind": "text",
+      "tag": "p",
+      "label": "La tarea repetitiva que deseas automatizar, paso por paso.",
+      "section": "Qué puedes preparar para tu cotización.",
+      "value": "La tarea repetitiva que deseas automatizar, paso por paso.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p4-text-22",
+      "page": "p4",
+      "kind": "text",
+      "tag": "p",
+      "label": "Ejemplos del registro de origen y del resultado que esperas.",
+      "section": "Qué puedes preparar para tu cotización.",
+      "value": "Ejemplos del registro de origen y del resultado que esperas.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p4-text-23",
+      "page": "p4",
+      "kind": "text",
+      "tag": "p",
+      "label": "La frecuencia de la tarea, usuarios y servicios que necesitas conectar.",
+      "section": "Qué puedes preparar para tu cotización.",
+      "value": "La frecuencia de la tarea, usuarios y servicios que necesitas conectar.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p4-text-24",
+      "page": "p4",
+      "kind": "text",
+      "tag": "h2",
+      "label": "Lo que necesitas saber antes de comenzar.",
+      "section": "Qué puedes preparar para tu cotización.",
+      "value": "Lo que necesitas saber antes de comenzar.",
+      "maxLength": 180
+    },
+    {
+      "id": "p4-text-25",
+      "page": "p4",
+      "kind": "text",
+      "tag": "p",
+      "label": "Conversemos sobre tus datos, tu equipo y el resultado que esperas.",
+      "section": "Lo que necesitas saber antes de comenzar.",
+      "value": "Conversemos sobre tus datos, tu equipo y el resultado que esperas.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p4-text-26",
+      "page": "p4",
+      "kind": "text",
+      "tag": "summary",
+      "label": "¿Tengo que saber programar para usar el sistema?",
+      "section": "Lo que necesitas saber antes de comenzar.",
+      "value": "¿Tengo que saber programar para usar el sistema?",
+      "maxLength": 1600
+    },
+    {
+      "id": "p4-text-27",
+      "page": "p4",
+      "kind": "text",
+      "tag": "p",
+      "label": "No. Definimos pantallas y pasos de uso acordes con tu equipo. La orienta",
+      "section": "Lo que necesitas saber antes de comenzar.",
+      "value": "No. Definimos pantallas y pasos de uso acordes con tu equipo. La orientación y los materiales de entrega forman parte del alcance que revisamos contigo.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p4-text-28",
+      "page": "p4",
+      "kind": "text",
+      "tag": "summary",
+      "label": "¿Pueden mejorar una automatización existente?",
+      "section": "Lo que necesitas saber antes de comenzar.",
+      "value": "¿Pueden mejorar una automatización existente?",
+      "maxLength": 1600
+    },
+    {
+      "id": "p4-text-29",
+      "page": "p4",
+      "kind": "text",
+      "tag": "p",
+      "label": "Podemos revisar el código y su funcionamiento si tienes autorización par",
+      "section": "Lo que necesitas saber antes de comenzar.",
+      "value": "Podemos revisar el código y su funcionamiento si tienes autorización para compartirlo. Primero identificamos el problema y acordamos qué cambios se realizarán.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p4-text-30",
+      "page": "p4",
+      "kind": "text",
+      "tag": "summary",
+      "label": "¿Todo se puede automatizar con Apps Script?",
+      "section": "Lo que necesitas saber antes de comenzar.",
+      "value": "¿Todo se puede automatizar con Apps Script?",
+      "maxLength": 1600
+    },
+    {
+      "id": "p4-text-31",
+      "page": "p4",
+      "kind": "text",
+      "tag": "p",
+      "label": "La viabilidad depende de las plataformas, permisos, volumen y límites té",
+      "section": "Lo que necesitas saber antes de comenzar.",
+      "value": "La viabilidad depende de las plataformas, permisos, volumen y límites técnicos. Revisamos cada integración antes de confirmar funciones y plazos.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p4-text-32",
+      "page": "p4",
+      "kind": "text",
+      "tag": "summary",
+      "label": "¿Atienden empresas de otras ciudades del Perú?",
+      "section": "Lo que necesitas saber antes de comenzar.",
+      "value": "¿Atienden empresas de otras ciudades del Perú?",
+      "maxLength": 1600
+    },
+    {
+      "id": "p4-text-33",
+      "page": "p4",
+      "kind": "text",
+      "tag": "p",
+      "label": "Coordinamos la consulta y revisión del proyecto de forma remota. Cuéntan",
+      "section": "Lo que necesitas saber antes de comenzar.",
+      "value": "Coordinamos la consulta y revisión del proyecto de forma remota. Cuéntanos tu proceso por WhatsApp al +51 932 280 554 para preparar una cotización.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p4-text-34",
+      "page": "p4",
+      "kind": "text",
+      "tag": "h2",
+      "label": "Cuéntanos cómo trabajas hoy.",
+      "section": "Lo que necesitas saber antes de comenzar.",
+      "value": "Cuéntanos cómo trabajas hoy.",
+      "maxLength": 180
+    },
+    {
+      "id": "p4-text-35",
+      "page": "p4",
+      "kind": "text",
+      "tag": "p",
+      "label": "Escríbenos al +51 932 280 554 o a contacto.sinteria@gmail.com . Revisamo",
+      "section": "Cuéntanos cómo trabajas hoy.",
+      "value": "Escríbenos al +51 932 280 554 o a contacto.sinteria@gmail.com . Revisamos tu idea y preparamos una cotización gratuita para tu negocio.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p5-text-0",
+      "page": "p5",
+      "kind": "text",
+      "tag": "h1",
+      "label": "Sistema de compras y requerimientos.",
+      "section": "Portada",
+      "value": "Sistema de compras y requerimientos.",
+      "maxLength": 180
+    },
+    {
+      "id": "p5-text-1",
+      "page": "p5",
+      "kind": "text",
+      "tag": "p",
+      "label": "Da seguimiento a las solicitudes de compra de tu negocio desde un mismo ",
+      "section": "Portada",
+      "value": "Da seguimiento a las solicitudes de compra de tu negocio desde un mismo flujo. Creamos sistemas de compras y requerimientos en Google Sheets y Apps Script para relacionar proveedores, cotizaciones, estados y entregas según tu operación.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p5-text-3",
+      "page": "p5",
+      "kind": "text",
+      "tag": "h2",
+      "label": "Que una solicitud no se pierda entre mensajes y archivos.",
+      "section": "Portada",
+      "value": "Que una solicitud no se pierda entre mensajes y archivos.",
+      "maxLength": 180
+    },
+    {
+      "id": "p5-text-4",
+      "page": "p5",
+      "kind": "text",
+      "tag": "p",
+      "label": "Cuando cada área solicita materiales por un canal distinto, es difícil r",
+      "section": "Que una solicitud no se pierda entre mensajes y archivos.",
+      "value": "Cuando cada área solicita materiales por un canal distinto, es difícil responder qué está pendiente, qué proveedor cotizó y qué productos ya llegaron. Un registro común ayuda a relacionar esas etapas sin perder el detalle de cada solicitud.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p5-text-5",
+      "page": "p5",
+      "kind": "text",
+      "tag": "p",
+      "label": "Revisamos cómo solicitas, comparas y autorizas una compra. Después defin",
+      "section": "Que una solicitud no se pierda entre mensajes y archivos.",
+      "value": "Revisamos cómo solicitas, comparas y autorizas una compra. Después definimos los estados, responsables y documentos que necesitas consultar. La herramienta sigue tu proceso y permite identificar qué información falta para dar el siguiente paso.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p5-text-6",
+      "page": "p5",
+      "kind": "text",
+      "tag": "h3",
+      "label": "Solicitudes identificadas",
+      "section": "Que una solicitud no se pierda entre mensajes y archivos.",
+      "value": "Solicitudes identificadas",
+      "maxLength": 180
+    },
+    {
+      "id": "p5-text-7",
+      "page": "p5",
+      "kind": "text",
+      "tag": "p",
+      "label": "Requerimientos con número, fecha, área solicitante y detalle de producto",
+      "section": "Que una solicitud no se pierda entre mensajes y archivos.",
+      "value": "Requerimientos con número, fecha, área solicitante y detalle de productos o servicios, según los campos acordados.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p5-text-8",
+      "page": "p5",
+      "kind": "text",
+      "tag": "h3",
+      "label": "Proveedores y cotizaciones",
+      "section": "Que una solicitud no se pierda entre mensajes y archivos.",
+      "value": "Proveedores y cotizaciones",
+      "maxLength": 180
+    },
+    {
+      "id": "p5-text-9",
+      "page": "p5",
+      "kind": "text",
+      "tag": "p",
+      "label": "Organización de proveedores y propuestas recibidas. Se pueden plantear v",
+      "section": "Que una solicitud no se pierda entre mensajes y archivos.",
+      "value": "Organización de proveedores y propuestas recibidas. Se pueden plantear vistas comparativas de cantidades, unidades, precios y condiciones.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p5-text-10",
+      "page": "p5",
+      "kind": "text",
+      "tag": "h3",
+      "label": "Estados y responsables",
+      "section": "Que una solicitud no se pierda entre mensajes y archivos.",
+      "value": "Estados y responsables",
+      "maxLength": 180
+    },
+    {
+      "id": "p5-text-11",
+      "page": "p5",
+      "kind": "text",
+      "tag": "p",
+      "label": "Seguimiento de solicitudes pendientes, en revisión, autorizadas o atendi",
+      "section": "Que una solicitud no se pierda entre mensajes y archivos.",
+      "value": "Seguimiento de solicitudes pendientes, en revisión, autorizadas o atendidas. Definimos quién registra y quién revisa cada etapa.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p5-text-12",
+      "page": "p5",
+      "kind": "text",
+      "tag": "h3",
+      "label": "Entregas y reportes",
+      "section": "Que una solicitud no se pierda entre mensajes y archivos.",
+      "value": "Entregas y reportes",
+      "maxLength": 180
+    },
+    {
+      "id": "p5-text-13",
+      "page": "p5",
+      "kind": "text",
+      "tag": "p",
+      "label": "Consulta de recepciones, productos pendientes y plazos registrados. La r",
+      "section": "Que una solicitud no se pierda entre mensajes y archivos.",
+      "value": "Consulta de recepciones, productos pendientes y plazos registrados. La relación con inventarios se evalúa como parte del proyecto.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p5-text-15",
+      "page": "p5",
+      "kind": "text",
+      "tag": "h2",
+      "label": "Ejemplo: un requerimiento con dos entregas parciales.",
+      "section": "Que una solicitud no se pierda entre mensajes y archivos.",
+      "value": "Ejemplo: un requerimiento con dos entregas parciales.",
+      "maxLength": 180
+    },
+    {
+      "id": "p5-text-16",
+      "page": "p5",
+      "kind": "text",
+      "tag": "p",
+      "label": "Un área solicita materiales y compras registra las propuestas de proveed",
+      "section": "Ejemplo: un requerimiento con dos entregas parciales.",
+      "value": "Un área solicita materiales y compras registra las propuestas de proveedores. Tras la autorización, se registra la orden o documento acordado. Una parte llega primero y el resto queda pendiente. El responsable consulta cantidades solicitadas y recibidas sin dar toda la compra por terminada antes de tiempo. Este flujo se adapta a los documentos y reglas de tu empresa.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p5-text-17",
+      "page": "p5",
+      "kind": "text",
+      "tag": "h2",
+      "label": "Definimos las reglas antes de automatizar.",
+      "section": "Ejemplo: un requerimiento con dos entregas parciales.",
+      "value": "Definimos las reglas antes de automatizar.",
+      "maxLength": 180
+    },
+    {
+      "id": "p5-text-18",
+      "page": "p5",
+      "kind": "text",
+      "tag": "p",
+      "label": "Revisamos cómo se numeran los requerimientos, qué condiciones autorizan ",
+      "section": "Definimos las reglas antes de automatizar.",
+      "value": "Revisamos cómo se numeran los requerimientos, qué condiciones autorizan una compra y cómo se tratan diferencias de cantidades o unidades. Si ya cuentas con plantillas de órdenes o cuadros comparativos, evaluamos cómo aprovecharlas. Los reportes se diseñan para las preguntas que tu equipo necesita responder.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p5-text-19",
+      "page": "p5",
+      "kind": "text",
+      "tag": "h2",
+      "label": "Qué puedes preparar para tu cotización.",
+      "section": "Definimos las reglas antes de automatizar.",
+      "value": "Qué puedes preparar para tu cotización.",
+      "maxLength": 180
+    },
+    {
+      "id": "p5-text-20",
+      "page": "p5",
+      "kind": "text",
+      "tag": "p",
+      "label": "Trabajamos con una propuesta a tu medida. Estos ejemplos nos ayudan a en",
+      "section": "Qué puedes preparar para tu cotización.",
+      "value": "Trabajamos con una propuesta a tu medida. Estos ejemplos nos ayudan a entender el alcance antes de desarrollar.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p5-text-21",
+      "page": "p5",
+      "kind": "text",
+      "tag": "p",
+      "label": "Un requerimiento, una cotización y una orden con datos de ejemplo.",
+      "section": "Qué puedes preparar para tu cotización.",
+      "value": "Un requerimiento, una cotización y una orden con datos de ejemplo.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p5-text-22",
+      "page": "p5",
+      "kind": "text",
+      "tag": "p",
+      "label": "Los estados que utiliza tu empresa y los responsables de revisarlos.",
+      "section": "Qué puedes preparar para tu cotización.",
+      "value": "Los estados que utiliza tu empresa y los responsables de revisarlos.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p5-text-23",
+      "page": "p5",
+      "kind": "text",
+      "tag": "p",
+      "label": "Cómo registras recepciones parciales, cambios o anulaciones.",
+      "section": "Qué puedes preparar para tu cotización.",
+      "value": "Cómo registras recepciones parciales, cambios o anulaciones.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p5-text-24",
+      "page": "p5",
+      "kind": "text",
+      "tag": "h2",
+      "label": "Lo que necesitas saber antes de comenzar.",
+      "section": "Qué puedes preparar para tu cotización.",
+      "value": "Lo que necesitas saber antes de comenzar.",
+      "maxLength": 180
+    },
+    {
+      "id": "p5-text-25",
+      "page": "p5",
+      "kind": "text",
+      "tag": "p",
+      "label": "Conversemos sobre tus datos, tu equipo y el resultado que esperas.",
+      "section": "Lo que necesitas saber antes de comenzar.",
+      "value": "Conversemos sobre tus datos, tu equipo y el resultado que esperas.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p5-text-26",
+      "page": "p5",
+      "kind": "text",
+      "tag": "summary",
+      "label": "¿Puede incluir un cuadro comparativo de proveedores?",
+      "section": "Lo que necesitas saber antes de comenzar.",
+      "value": "¿Puede incluir un cuadro comparativo de proveedores?",
+      "maxLength": 1600
+    },
+    {
+      "id": "p5-text-27",
+      "page": "p5",
+      "kind": "text",
+      "tag": "p",
+      "label": "Sí, podemos definir una comparación de propuestas con los campos que uti",
+      "section": "Lo que necesitas saber antes de comenzar.",
+      "value": "Sí, podemos definir una comparación de propuestas con los campos que utiliza tu equipo. La selección y aprobación del proveedor sigue las reglas de tu empresa.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p5-text-28",
+      "page": "p5",
+      "kind": "text",
+      "tag": "summary",
+      "label": "¿El sistema puede registrar entregas parciales?",
+      "section": "Lo que necesitas saber antes de comenzar.",
+      "value": "¿El sistema puede registrar entregas parciales?",
+      "maxLength": 1600
+    },
+    {
+      "id": "p5-text-29",
+      "page": "p5",
+      "kind": "text",
+      "tag": "p",
+      "label": "Podemos incluir cantidades solicitadas, recibidas y pendientes para hace",
+      "section": "Lo que necesitas saber antes de comenzar.",
+      "value": "Podemos incluir cantidades solicitadas, recibidas y pendientes para hacer seguimiento. Acordamos cómo se registran las recepciones y las correcciones.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p5-text-30",
+      "page": "p5",
+      "kind": "text",
+      "tag": "summary",
+      "label": "¿Puede integrarse con el inventario?",
+      "section": "Lo que necesitas saber antes de comenzar.",
+      "value": "¿Puede integrarse con el inventario?",
+      "maxLength": 1600
+    },
+    {
+      "id": "p5-text-31",
+      "page": "p5",
+      "kind": "text",
+      "tag": "p",
+      "label": "Sí, evaluamos cómo vincular una recepción con el ingreso al almacén, evi",
+      "section": "Lo que necesitas saber antes de comenzar.",
+      "value": "Sí, evaluamos cómo vincular una recepción con el ingreso al almacén, evitando duplicar registros. Los módulos e integraciones se detallan en la cotización.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p5-text-32",
+      "page": "p5",
+      "kind": "text",
+      "tag": "summary",
+      "label": "¿Cómo solicito una propuesta?",
+      "section": "Lo que necesitas saber antes de comenzar.",
+      "value": "¿Cómo solicito una propuesta?",
+      "maxLength": 1600
+    },
+    {
+      "id": "p5-text-33",
+      "page": "p5",
+      "kind": "text",
+      "tag": "p",
+      "label": "Escríbenos al +51 932 280 554 con una descripción de tu proceso. La prim",
+      "section": "Lo que necesitas saber antes de comenzar.",
+      "value": "Escríbenos al +51 932 280 554 con una descripción de tu proceso. La primera consulta y la cotización son gratuitas; usamos datos de ejemplo para revisar el flujo.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p5-text-34",
+      "page": "p5",
+      "kind": "text",
+      "tag": "h2",
+      "label": "Cuéntanos cómo trabajas hoy.",
+      "section": "Lo que necesitas saber antes de comenzar.",
+      "value": "Cuéntanos cómo trabajas hoy.",
+      "maxLength": 180
+    },
+    {
+      "id": "p5-text-35",
+      "page": "p5",
+      "kind": "text",
+      "tag": "p",
+      "label": "Escríbenos al +51 932 280 554 o a contacto.sinteria@gmail.com . Revisamo",
+      "section": "Cuéntanos cómo trabajas hoy.",
+      "value": "Escríbenos al +51 932 280 554 o a contacto.sinteria@gmail.com . Revisamos tu idea y preparamos una cotización gratuita para tu negocio.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p6-text-0",
+      "page": "p6",
+      "kind": "text",
+      "tag": "h1",
+      "label": "Control de préstamos, cuotas y pagos.",
+      "section": "Portada",
+      "value": "Control de préstamos, cuotas y pagos.",
+      "maxLength": 180
+    },
+    {
+      "id": "p6-text-1",
+      "page": "p6",
+      "kind": "text",
+      "tag": "p",
+      "label": "Organiza tus registros de préstamos, cronogramas y pagos con una herrami",
+      "section": "Portada",
+      "value": "Organiza tus registros de préstamos, cronogramas y pagos con una herramienta desarrollada para tu operación. En Sinteria creamos sistemas personalizados en Google Sheets y Apps Script para consultar cuotas, movimientos y saldos desde una estructura común.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p6-text-3",
+      "page": "p6",
+      "kind": "text",
+      "tag": "h2",
+      "label": "Un historial claro para revisar cuotas y movimientos.",
+      "section": "Portada",
+      "value": "Un historial claro para revisar cuotas y movimientos.",
+      "maxLength": 180
+    },
+    {
+      "id": "p6-text-4",
+      "page": "p6",
+      "kind": "text",
+      "tag": "p",
+      "label": "Cuando los pagos se anotan en distintos archivos o conversaciones, recon",
+      "section": "Un historial claro para revisar cuotas y movimientos.",
+      "value": "Cuando los pagos se anotan en distintos archivos o conversaciones, reconstruir el saldo de un registro toma tiempo. Una estructura común ayuda a consultar el cronograma y relacionar los movimientos sin volver a buscar la información desde cero.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p6-text-5",
+      "page": "p6",
+      "kind": "text",
+      "tag": "p",
+      "label": "El trabajo comienza con tus reglas de registro: qué datos identifican un",
+      "section": "Un historial claro para revisar cuotas y movimientos.",
+      "value": "El trabajo comienza con tus reglas de registro: qué datos identifican una operación, cómo se distribuye un pago y qué información debe mostrar el reporte. Esta página describe un servicio de desarrollo de software para control administrativo; Sinteria no ofrece préstamos.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p6-text-6",
+      "page": "p6",
+      "kind": "text",
+      "tag": "h3",
+      "label": "Registros organizados",
+      "section": "Un historial claro para revisar cuotas y movimientos.",
+      "value": "Registros organizados",
+      "maxLength": 180
+    },
+    {
+      "id": "p6-text-7",
+      "page": "p6",
+      "kind": "text",
+      "tag": "p",
+      "label": "Identificación de cada operación y sus datos administrativos. Definimos ",
+      "section": "Un historial claro para revisar cuotas y movimientos.",
+      "value": "Identificación de cada operación y sus datos administrativos. Definimos los campos necesarios y qué personas deben acceder a ellos.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p6-text-8",
+      "page": "p6",
+      "kind": "text",
+      "tag": "h3",
+      "label": "Cuotas y vencimientos",
+      "section": "Un historial claro para revisar cuotas y movimientos.",
+      "value": "Cuotas y vencimientos",
+      "maxLength": 180
+    },
+    {
+      "id": "p6-text-9",
+      "page": "p6",
+      "kind": "text",
+      "tag": "p",
+      "label": "Cronogramas con fechas, importes y estados de seguimiento, a partir de l",
+      "section": "Un historial claro para revisar cuotas y movimientos.",
+      "value": "Cronogramas con fechas, importes y estados de seguimiento, a partir de las reglas de cálculo que se acuerden y validen en el proyecto.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p6-text-10",
+      "page": "p6",
+      "kind": "text",
+      "tag": "h3",
+      "label": "Pagos e historial",
+      "section": "Un historial claro para revisar cuotas y movimientos.",
+      "value": "Pagos e historial",
+      "maxLength": 180
+    },
+    {
+      "id": "p6-text-11",
+      "page": "p6",
+      "kind": "text",
+      "tag": "p",
+      "label": "Registro de movimientos y consulta de pagos asociados. Revisamos el trat",
+      "section": "Un historial claro para revisar cuotas y movimientos.",
+      "value": "Registro de movimientos y consulta de pagos asociados. Revisamos el tratamiento de abonos parciales, correcciones y anulaciones.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p6-text-12",
+      "page": "p6",
+      "kind": "text",
+      "tag": "h3",
+      "label": "Saldos y reportes",
+      "section": "Un historial claro para revisar cuotas y movimientos.",
+      "value": "Saldos y reportes",
+      "maxLength": 180
+    },
+    {
+      "id": "p6-text-13",
+      "page": "p6",
+      "kind": "text",
+      "tag": "p",
+      "label": "Vistas para consultar pendientes, movimientos por fecha y resúmenes admi",
+      "section": "Un historial claro para revisar cuotas y movimientos.",
+      "value": "Vistas para consultar pendientes, movimientos por fecha y resúmenes administrativos. Los filtros y avisos se incluyen según tu propuesta.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p6-text-15",
+      "page": "p6",
+      "kind": "text",
+      "tag": "h2",
+      "label": "Ejemplo: consultar una cuota con dos abonos.",
+      "section": "Un historial claro para revisar cuotas y movimientos.",
+      "value": "Ejemplo: consultar una cuota con dos abonos.",
+      "maxLength": 180
+    },
+    {
+      "id": "p6-text-16",
+      "page": "p6",
+      "kind": "text",
+      "tag": "p",
+      "label": "Un registro tiene un cronograma y una cuota recibe dos abonos en fechas ",
+      "section": "Ejemplo: consultar una cuota con dos abonos.",
+      "value": "Un registro tiene un cronograma y una cuota recibe dos abonos en fechas distintas. La herramienta conserva ambos movimientos y muestra el saldo según las reglas definidas. El equipo puede consultar el detalle para revisar lo ocurrido. Antes de la entrega probamos los casos de ejemplo que acordemos, incluidos los abonos y las correcciones.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p6-text-17",
+      "page": "p6",
+      "kind": "text",
+      "tag": "h2",
+      "label": "Acordamos los cálculos y la forma de acceso.",
+      "section": "Ejemplo: consultar una cuota con dos abonos.",
+      "value": "Acordamos los cálculos y la forma de acceso.",
+      "maxLength": 180
+    },
+    {
+      "id": "p6-text-18",
+      "page": "p6",
+      "kind": "text",
+      "tag": "p",
+      "label": "Revisamos fórmulas, fechas, redondeos, estados y reportes antes de progr",
+      "section": "Acordamos los cálculos y la forma de acceso.",
+      "value": "Revisamos fórmulas, fechas, redondeos, estados y reportes antes de programar. También definimos los permisos, la titularidad de los archivos y la forma de entrega. El registro administrativo de un pago no sustituye la confirmación del dinero recibido; cualquier integración de cobros se evalúa por separado.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p6-text-19",
+      "page": "p6",
+      "kind": "text",
+      "tag": "h2",
+      "label": "Qué puedes preparar para tu cotización.",
+      "section": "Acordamos los cálculos y la forma de acceso.",
+      "value": "Qué puedes preparar para tu cotización.",
+      "maxLength": 180
+    },
+    {
+      "id": "p6-text-20",
+      "page": "p6",
+      "kind": "text",
+      "tag": "p",
+      "label": "Trabajamos con una propuesta a tu medida. Estos ejemplos nos ayudan a en",
+      "section": "Qué puedes preparar para tu cotización.",
+      "value": "Trabajamos con una propuesta a tu medida. Estos ejemplos nos ayudan a entender el alcance antes de desarrollar.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p6-text-21",
+      "page": "p6",
+      "kind": "text",
+      "tag": "p",
+      "label": "Un cronograma ficticio y ejemplos de pago completo y parcial.",
+      "section": "Qué puedes preparar para tu cotización.",
+      "value": "Un cronograma ficticio y ejemplos de pago completo y parcial.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p6-text-22",
+      "page": "p6",
+      "kind": "text",
+      "tag": "p",
+      "label": "Las reglas de cálculo y el reporte administrativo que necesitas.",
+      "section": "Qué puedes preparar para tu cotización.",
+      "value": "Las reglas de cálculo y el reporte administrativo que necesitas.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p6-text-23",
+      "page": "p6",
+      "kind": "text",
+      "tag": "p",
+      "label": "Usuarios, permisos y cantidad aproximada de registros.",
+      "section": "Qué puedes preparar para tu cotización.",
+      "value": "Usuarios, permisos y cantidad aproximada de registros.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p6-text-24",
+      "page": "p6",
+      "kind": "text",
+      "tag": "h2",
+      "label": "Lo que necesitas saber antes de comenzar.",
+      "section": "Qué puedes preparar para tu cotización.",
+      "value": "Lo que necesitas saber antes de comenzar.",
+      "maxLength": 180
+    },
+    {
+      "id": "p6-text-25",
+      "page": "p6",
+      "kind": "text",
+      "tag": "p",
+      "label": "Conversemos sobre tus datos, tu equipo y el resultado que esperas.",
+      "section": "Lo que necesitas saber antes de comenzar.",
+      "value": "Conversemos sobre tus datos, tu equipo y el resultado que esperas.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p6-text-26",
+      "page": "p6",
+      "kind": "text",
+      "tag": "summary",
+      "label": "¿Sinteria ofrece préstamos o financiamiento?",
+      "section": "Lo que necesitas saber antes de comenzar.",
+      "value": "¿Sinteria ofrece préstamos o financiamiento?",
+      "maxLength": 1600
+    },
+    {
+      "id": "p6-text-27",
+      "page": "p6",
+      "kind": "text",
+      "tag": "p",
+      "label": "No. Este servicio consiste en desarrollar una herramienta para organizar",
+      "section": "Lo que necesitas saber antes de comenzar.",
+      "value": "No. Este servicio consiste en desarrollar una herramienta para organizar registros, cuotas, movimientos y reportes administrativos.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p6-text-28",
+      "page": "p6",
+      "kind": "text",
+      "tag": "summary",
+      "label": "¿Puede adaptarse a mis reglas de cálculo?",
+      "section": "Lo que necesitas saber antes de comenzar.",
+      "value": "¿Puede adaptarse a mis reglas de cálculo?",
+      "maxLength": 1600
+    },
+    {
+      "id": "p6-text-29",
+      "page": "p6",
+      "kind": "text",
+      "tag": "p",
+      "label": "Evaluamos las fórmulas y reglas que proporciones, y las probamos con eje",
+      "section": "Lo que necesitas saber antes de comenzar.",
+      "value": "Evaluamos las fórmulas y reglas que proporciones, y las probamos con ejemplos acordados. El cálculo y las funciones que se implementarán quedan definidos en tu propuesta.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p6-text-30",
+      "page": "p6",
+      "kind": "text",
+      "tag": "summary",
+      "label": "¿Se pueden registrar pagos parciales?",
+      "section": "Lo que necesitas saber antes de comenzar.",
+      "value": "¿Se pueden registrar pagos parciales?",
+      "maxLength": 1600
+    },
+    {
+      "id": "p6-text-31",
+      "page": "p6",
+      "kind": "text",
+      "tag": "p",
+      "label": "Sí, se puede diseñar un historial de abonos relacionados con una cuota u",
+      "section": "Lo que necesitas saber antes de comenzar.",
+      "value": "Sí, se puede diseñar un historial de abonos relacionados con una cuota u operación. Revisamos cómo se aplican, corrigen y muestran en los reportes.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p6-text-32",
+      "page": "p6",
+      "kind": "text",
+      "tag": "summary",
+      "label": "¿El sistema confirma automáticamente el dinero recibido?",
+      "section": "Lo que necesitas saber antes de comenzar.",
+      "value": "¿El sistema confirma automáticamente el dinero recibido?",
+      "maxLength": 1600
+    },
+    {
+      "id": "p6-text-33",
+      "page": "p6",
+      "kind": "text",
+      "tag": "p",
+      "label": "Registrar un pago no confirma que el dinero haya llegado. Una verificaci",
+      "section": "Lo que necesitas saber antes de comenzar.",
+      "value": "Registrar un pago no confirma que el dinero haya llegado. Una verificación mediante un proveedor de pagos requiere una integración específica que debe evaluarse y cotizarse.",
+      "maxLength": 1600
+    },
+    {
+      "id": "p6-text-34",
+      "page": "p6",
+      "kind": "text",
+      "tag": "h2",
+      "label": "Cuéntanos cómo trabajas hoy.",
+      "section": "Lo que necesitas saber antes de comenzar.",
+      "value": "Cuéntanos cómo trabajas hoy.",
+      "maxLength": 180
+    },
+    {
+      "id": "p6-text-35",
+      "page": "p6",
+      "kind": "text",
+      "tag": "p",
+      "label": "Escríbenos al +51 932 280 554 o a contacto.sinteria@gmail.com . Revisamo",
+      "section": "Cuéntanos cómo trabajas hoy.",
+      "value": "Escríbenos al +51 932 280 554 o a contacto.sinteria@gmail.com . Revisamos tu idea y preparamos una cotización gratuita para tu negocio.",
+      "maxLength": 1600
+    }
+  ],
+  "settings": {
+    "brandName": "Sinteria Automatizaciones",
+    "phone": "51932280554",
+    "email": "contacto.sinteria@gmail.com",
+    "tiktok": "",
+    "facebook": "https://www.facebook.com/share/1cpzvtEMx2/"
+  },
+  "catalogs": []
+}
